@@ -1,0 +1,89 @@
+{
+  "sources": [
+    {
+      "name": "ShenNong",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/ShenNong-TCM-Dataset/ChatMed_TCM-v0.2.json",
+      "filter": true,
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_Syndrome",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_nlpSyndromeDiagnosed_48665.json",
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_Prescription",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_structPrescription_92896.json",
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_DiseaseDiagnosed",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_nlpDiseaseDiagnosed_61486.json",
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_MedKnowledge_2",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_medicalKnowledge_source2_99334.json",
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_MedKnowledge_1",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_medicalKnowledge_source1_548404.json",
+      "quota": 50000,
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_MedKnowledge_3",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_medicalKnowledge_source3_556540.json",
+      "quota": 50000,
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "SylvanL_StructGeneral",
+      "track": "TCM",
+      "path": "/mnt/data/huangjiawei/datasets_local/tcm/SylvanL-TCM-SFT/SFT_structGeneral_310860.json",
+      "quota": 100000,
+      "system": "你是一位资深中医师，精通中医辨证论治、方剂、本草和经典医籍。请根据用户提问基于中医理论给出辨证分析和方剂建议。\n重要声明：中医属于传统医学经验体系，大部分推荐基于历代医家经验和经典医籍，缺乏现代循证医学(RCT)级别的临床证据，仅作为传统医学参考，不能替代循证医学诊疗。建议患者结合现代医学诊断综合判断，重大疾病请就医。"
+    },
+    {
+      "name": "shibing624_medical_zh",
+      "track": "EBM",
+      "path": "/mnt/data/huangjiawei/datasets_local/medical/shibing624_medical/train_zh_0.json",
+      "quota": 200000,
+      "system": "你是一位严谨的循证医学(EBM)医师，基于现代医学证据(随机对照试验、Meta 分析、临床指南、专家共识)进行诊断和治疗推荐。\n回答时遵循以下原则：\n1. 优先引用循证证据(临床指南、专家共识、RCT 结论)\n2. 对缺乏充分证据的情况，明确告知“目前缺乏循证医学证据，需进一步专业评估”\n3. 不推荐缺乏循证证据的传统医学方剂\n4. 严重病情建议患者就医诊治"
+    },
+    {
+      "name": "ChatMed_Consult",
+      "track": "EBM",
+      "path": "/mnt/data/huangjiawei/datasets_local/medical/ChatMed_Consult/ChatMed_Consult-v0.3.json",
+      "filter": true,
+      "system": "你是一位严谨的循证医学(EBM)医师，基于现代医学证据(随机对照试验、Meta 分析、临床指南、专家共识)进行诊断和治疗推荐。\n回答时遵循以下原则：\n1. 优先引用循证证据(临床指南、专家共识、RCT 结论)\n2. 对缺乏充分证据的情况，明确告知“目前缺乏循证医学证据，需进一步专业评估”\n3. 不推荐缺乏循证证据的传统医学方剂\n4. 严重病情建议患者就医诊治"
+    },
+    {
+      "name": "CMtMedQA",
+      "track": "EBM",
+      "path": "/mnt/data/huangjiawei/datasets_local/medical/CMtMedQA/CMtMedQA.json",
+      "system": "你是一位严谨的循证医学(EBM)医师，基于现代医学证据(随机对照试验、Meta 分析、临床指南、专家共识)进行诊断和治疗推荐。\n回答时遵循以下原则：\n1. 优先引用循证证据(临床指南、专家共识、RCT 结论)\n2. 对缺乏充分证据的情况，明确告知“目前缺乏循证医学证据，需进一步专业评估”\n3. 不推荐缺乏循证证据的传统医学方剂\n4. 严重病情建议患者就医诊治"
+    },
+    {
+      "name": "HuatuoGPT_v1",
+      "track": "EBM",
+      "path": "/mnt/data/huangjiawei/datasets_local/medical/HuatuoGPT_v1/HuatuoGPT_sft_data_v1.jsonl",
+      "quota": 100000,
+      "system": "你是一位严谨的循证医学(EBM)医师，基于现代医学证据(随机对照试验、Meta 分析、临床指南、专家共识)进行诊断和治疗推荐。\n回答时遵循以下原则：\n1. 优先引用循证证据(临床指南、专家共识、RCT 结论)\n2. 对缺乏充分证据的情况，明确告知“目前缺乏循证医学证据，需进一步专业评估”\n3. 不推荐缺乏循证证据的传统医学方剂\n4. 严重病情建议患者就医诊治"
+    },
+    {
+      "name": "Huatuo26M_Lite",
+      "track": "EBM",
+      "path": "/mnt/data/huangjiawei/datasets_local/medical/Huatuo26M_Lite/format_data.jsonl",
+      "system": "你是一位严谨的循证医学(EBM)医师，基于现代医学证据(随机对照试验、Meta 分析、临床指南、专家共识)进行诊断和治疗推荐。\n回答时遵循以下原则：\n1. 优先引用循证证据(临床指南、专家共识、RCT 结论)\n2. 对缺乏充分证据的情况，明确告知“目前缺乏循证医学证据，需进一步专业评估”\n3. 不推荐缺乏循证证据的传统医学方剂\n4. 严重病情建议患者就医诊治"
+    }
+  ]
+}

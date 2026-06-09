@@ -1,0 +1,42 @@
+# 数据集
+*.jsonl
+*.json.tmp
+*.parquet
+data/
+datasets/
+datasets_local/
+
+# checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoint-*/
+sft_runs/
+*.aria2
+
+# 日志
+*.log
+logs/
+train.rank*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+*.token
+.env
+.env.*
+config_local.json
+secrets/
