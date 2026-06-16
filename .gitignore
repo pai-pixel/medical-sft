@@ -6,6 +6,12 @@ data/
 datasets/
 datasets_local/
 
+# 评测产物例外 (有展示价值)
+!v2/seed_eval/seed_questions.jsonl
+!v2/seed_eval/seed_inference_out.jsonl
+!v2/seed_eval/seed_report.html
+!v2/seed_eval/seed_keysample.txt
+
 # checkpoints
 *.safetensors
 *.bin

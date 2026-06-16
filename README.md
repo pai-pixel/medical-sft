@@ -1,7 +1,13 @@
 # Medical SFT (中西医医疗对话模型微调工程)
 
-> 基于 Qwen3-VL-8B-Instruct 的中西医分轨医疗对话模型 SFT 工程。  
-> **当前状态**:v2 训练中(2026-06-08 启动,预计 2026-06-10 完成)。
+> 基于 Qwen3-VL 的中西医分轨医疗对话模型,三阶段迭代:**v1 LoRA SFT 初探 → v2 大规模双轨 full SFT → v3 GRPO 强化学习微调**。
+
+**当前状态**(2026-06-16):
+- v1 (2B+LoRA SFT) — 已废,8 道方剂题全错
+- v2 (8B full SFT 168 万双轨) — 已冷冻,实测推理差(2026-06-11)
+- v3 (LoRA + GRPO + RLVR) — **工程闭环跑通**,RL 效果零(配置问题,详见 `docs/v3-grpo.md`)
+
+横向对照:跟开源医疗 SOTA **Baichuan-M2-32B** 同题对比 7/7 全过,印证了 v2 "蒸馏数据 SFT 学不到真推理" 的判断(详见 `docs/baichuan-m2-comparison.md`)。
 
 ## 项目定位
 
@@ -15,23 +21,35 @@
 
 仅有 SFT 训出来的模型本质是模仿语料风格,**不会真正"循证"**,不能直接部署给医生/患者使用。
 
-## v1 vs v2
+## v1 / v2 / v3 三阶段对比
 
-| | v1 (废) | **v2 (当前)** |
-|---|---|---|
-| 基模 | Qwen3-VL-2B | **Qwen3-VL-8B-Instruct** |
-| 训练方式 | LoRA r=8(误用) | **full SFT** (`--tuner_type full`) |
-| 数据 | 11.3 万(单源 ShenNong) | **168 万(13 源,EBM 64% + TCM 36%)** |
-| max_length | 2048 | **4096** |
-| epochs | 3 | **2** |
-| zero | 2 | **3** |
-| lr | 1e-5 | **5e-6** |
-| **system prompt** | 单一中医师 | **双轨自动切换**(EBM/TCM) |
+| | v1 (废) | v2 (冷冻) | **v3 (GRPO 跑通)** |
+|---|---|---|---|
+| 基模 | Qwen3-VL-2B | Qwen3-VL-8B-Instruct | v2 ckpt-13144 |
+| 训练方式 | LoRA r=8(误用) | full SFT (`--tuner_type full`) | **LoRA + GRPO + RLVR** |
+| 数据 | 11.3 万(单源 ShenNong) | 168 万(13 源,EBM 64% + TCM 36%) | CMMLU 医学 8 subject 1067 条 |
+| max_length | 2048 | 4096 | 2048(prompt)+ 1024(completion) |
+| 算力 | hjw 单机 | 2 节点 × 8 GPU = 16 卡 | 1 节点 × 8 卡 |
+| 训练耗时 | 短 | ~39 小时 | 1h 11m / 532 step |
+| 学习率 | 1e-5 | 5e-6 | 1e-6 |
+| **system prompt** | 单一中医师 | 双轨自动切换(EBM/TCM) | 跟随 v2 |
+| **结果** | 8/8 错 | 推理弱 | 工程闭环 ✅ 效果零 ❌ |
 
 ### v1 教训
 - 没显式 `--tuner_type full`,swift 4.2.3 默认走 LoRA r=8,容量太小
 - 数据来源 ShenNong 自身有错(理中丸成分错、二陈"汉药"等),被模型学到错的方剂
 - 8 道中医测题:全对 0,有重大错误 5(六味地黄丸成分错、桂枝加葛根写成加芍药)
+
+### v2 教训
+- ChatGPT 蒸馏的"EBM"数据本身不是真证据,SFT 只能学到风格不是事实
+- 8B + 168 万双轨 + full SFT 仍然推不出真循证推理 → SFT 单阶段方法本身天花板
+- 据此 2026-06-11 冷冻 v2,转向 RL 路径
+
+### v3 教训
+- GRPO 不看 loss(在 0 附近震荡是正常),看 reward / mcq_acc 曲线
+- 起跑就 acc 0.72 → 接近 reward 天花板 → RL 啃不动
+- kl ≈ 0.001 全程 → 更新强度太小 → 模型本质没在学
+- 25-50% 的 prompt 组,8 generation 全对或全错 → 组内 advantage = 0 → 训练零贡献
 
 ## v2 关键创新:双轨 system prompt
 
@@ -91,17 +109,39 @@ mixed_precision: bf16
 
 ```
 medical_sft/
-├── README.md                    本文件
-├── docs/                        设计文档
-├── v1/                          v1 工程(已废,作参考)
+├── README.md                       本文件
+├── docs/                           设计文档 + 阶段沉淀
+│   ├── lessons-learned.md          5 个迭代踩坑(v1→v2)
+│   ├── v3-grpo.md                  v3 GRPO 跑通记录 + 失败原因 + 简历口径
+│   ├── baichuan-m2-comparison.md   跟开源医疗 SOTA 7 题对照评估
+│   └── resume-pipeline.md          简历级三阶段流水线大纲
+├── v1/                             v1 工程(已废,作参考)
 │   ├── download_shennong_tcm.sh
-│   ├── normalize_to_swift.py    单源 normalize
-│   ├── sft_qwen3vl_2b_tcm.sh    2B + LoRA(误)启动
-│   └── test_inference.sh        推理脚本
-└── v2/                          v2 工程(当前)
-    ├── sft_v2_dlc.sh            8B + full SFT + zero3 DLC 启动
-    ├── normalize_v2.py          多源 normalize + 配额抽样 + 双轨 system + HuatuoGPT 格式
-    └── v2_config.json           13 源数据配置(每源标 track + system)
+│   ├── normalize_to_swift.py       单源 normalize
+│   ├── sft_qwen3vl_2b_tcm.sh       2B + LoRA(误)启动
+│   └── test_inference.sh           推理脚本
+├── v2/                             v2 工程(已冷冻)
+│   ├── sft_v2_dlc.sh               8B + full SFT + zero3 DLC 启动
+│   ├── normalize_v2.py             多源 normalize + 配额抽样 + 双轨 system
+│   ├── v2_config.json              13 源数据配置
+│   └── seed_eval/                  v2 SFT 完种子题集评测
+│       ├── system_prompts.py
+│       ├── run_seed_inference.py
+│       ├── seed_questions.jsonl    种子题集
+│       ├── seed_report.html        评测报告
+│       └── ...
+└── v3/                             v3 工程(GRPO RLVR 跑通)
+    ├── README.md                   v3 一句话定调 + 算法配方 + 文件清单
+    ├── mcq_reward.py               自定义 reward 插件(MCQAccuracy + MCQFormat)
+    ├── prep_medical_mcq.py         CMMLU 医学子集 → train/heldout
+    ├── find_medical_mcq.py         CMMLU schema 探查
+    ├── run_grpo.py                 fd-wrapper(本地 smoke 用)
+    ├── grpo_mcq.sh                 本地 hjw DSW 单卡 smoke launcher
+    ├── grpo_mcq_dlc.sh             DLC 8 卡全量 launcher
+    └── eval/                       开源医疗对照评估
+        ├── test_m2_inference.py    Baichuan-M2-32B 7 题对照
+        ├── download_baichuan_m2.py
+        └── bcm2_probe.py
 ```
 
 ## 部署步骤(v2)
@@ -169,14 +209,13 @@ DLC 自动注入 `RANK / WORLD_SIZE / MASTER_ADDR / MASTER_PORT`,脚本会接住
 | **数据本身有错** | ShenNong 113K 里有方剂瞎编 | v2 已过滤明显错条,深层错误靠 SylvanL 临床数据"压过" |
 | **VLM 部分没训** | ViT 冻结,只训 language_model | 后期 stage-2 视觉 SFT 可上(舌诊/影像)|
 
-## 下一步路线(等 v2 训完)
+## 下一步路线(已暂停,留作未来)
 
-1. **W1 推理验证** — 中医 + EBM 各 8 道题,看双轨切换是否生效,跟 v1 对比错误率
-2. **W2-3 选定专科** — 生殖医学 / 肿瘤 / 罕见病 / 慢病 选一个做 RAG MVP
-3. **W4-5 RAG 证据库** — MedRAG 范式 + BM25 + BGE-M3 + reranker,语料用专科指南/共识/PubMed/DailyMed
-4. **W6-7 EMR 结构化能力** — MTS-Dialog / ACI-BENCH / IMCS-21 范式补
-5. **W8-10 端到端 PoC + 拒答数据自建**
-6. **W11-12 找客户(医生/医院信息科/药企医学部)看 demo**
+v3 GRPO 工程闭环跑完 + 跟 M2 横向对照之后,医疗方向**整体冷冻**(简历项目使命已达成)。若以后重启:
+
+1. **真做出 RL 提升** — `docs/v3-grpo.md` 给了 ABC 三种修法(加猛火 / 换更难数据 / 换更弱起点)
+2. **走 M2 路线** — Apache 2.0 license 允许,可以从 GPTQ-Int4 单 4090 部署(零成本),或黑盒/白盒蒸馏到 Qwen2.5-7B 移动端(详见 `docs/baichuan-m2-comparison.md`)
+3. **补四件套** — SFT 只占严肃医疗产品的 1/4,RAG / 拒答 / 审计 三件全待建
 
 ## 参考资料
 
