@@ -2,6 +2,17 @@
 
 > v3 第二阶段:在 GRPO 闭环验证后,转向 **DPO 偏好学习**,把强老师 (Baichuan-M2-32B 中医 + Claude Opus 4.7 西医) 的能力蒸馏到 Qwen3-8B-Instruct.
 
+## 配套数据 (HF, private)
+
+完整 43,488 配对训练数据已发布到 HF:**[`shdkahjkda/medical-dpo-43k`](https://huggingface.co/datasets/shdkahjkda/medical-dpo-43k)**
+
+```python
+from datasets import load_dataset
+ds = load_dataset("shdkahjkda/medical-dpo-43k", split="train")
+```
+
+本目录只含代码 + 1000 对 `audit/` 抽样,大数据走 HF.
+
 ## 学生 + 老师 + 数据
 
 ```

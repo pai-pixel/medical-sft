@@ -22,6 +22,23 @@
 
 仅有 SFT 训出来的模型本质是模仿语料风格,**不会真正"循证"**,不能直接部署给医生/患者使用。
 
+## 配套 HuggingFace Datasets
+
+代码在 GitHub,**完整数据集发布在 HuggingFace**(全 private,需要 token)。
+
+| GitHub 子目录 | HF Dataset (private) | 规模 |
+|---|---|---|
+| `v2/` (full SFT 168万) | [`shdkahjkda/medical-sft-v2`](https://huggingface.co/datasets/shdkahjkda/medical-sft-v2) | 2.6 GB / 1.68M 条 |
+| `v3/` (GRPO 1067 条 CMMLU) | [`shdkahjkda/medical-mcq-v3-grpo`](https://huggingface.co/datasets/shdkahjkda/medical-mcq-v3-grpo) | 600 KB / 1067 条 |
+| **`v3/dpo/`** (DPO 双老师蒸馏 43,488 配对) | [`shdkahjkda/medical-dpo-43k`](https://huggingface.co/datasets/shdkahjkda/medical-dpo-43k) | 1.17 GB / 43,488 对 |
+
+数据闭环:本仓库**只含代码 + 1000 对 audit 抽样**(`v3/dpo/audit/audit_1000.jsonl`),完整数据需从 HF 拉取:
+
+```python
+from datasets import load_dataset
+ds = load_dataset("shdkahjkda/medical-dpo-43k", split="train")  # 43,488 DPO 配对
+```
+
 ## v1 / v2 / v3 三阶段对比
 
 | | v1 (废) | v2 (冷冻) | **v3 (GRPO 跑通)** |
