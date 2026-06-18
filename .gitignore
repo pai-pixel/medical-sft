@@ -12,6 +12,9 @@ datasets_local/
 !v2/seed_eval/seed_report.html
 !v2/seed_eval/seed_keysample.txt
 
+# v3 DPO audit 抽样 (合成 chosen/rejected 配对, 无 PII, 展示用)
+!v3/dpo/audit/audit_1000.jsonl
+
 # checkpoints
 *.safetensors
 *.bin

@@ -1,6 +1,7 @@
-# Phase 2 audit 数据 (含真实医疗对话, 不公开)
-audit/audit_1000.jsonl
-audit/audit_1000_compact.txt
+# Phase 2 audit 数据 (v3 DPO 抽样 1000 对, chosen/rejected 对照, 推 GitHub 公开)
+# 之前曾 .gitignore 出于保守, 复核后这是合成数据无 PII, 已解锁推送
+# audit/audit_1000.jsonl
+# audit/audit_1000_compact.txt
 
 # 训练产物 (本地路径, 不进 repo)
 *.staging.shard*
