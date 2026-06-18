@@ -1,13 +1,14 @@
 # Medical SFT (中西医医疗对话模型微调工程)
 
-> 基于 Qwen3-VL 的中西医分轨医疗对话模型,三阶段迭代:**v1 LoRA SFT 初探 → v2 大规模双轨 full SFT → v3 GRPO 强化学习微调**。
+> 基于 Qwen3-VL/Qwen3 的中西医分轨医疗对话模型,**四阶段迭代**:v1 LoRA SFT 初探 → v2 大规模双轨 full SFT → v3 GRPO 强化学习 → **v3 DPO 双老师蒸馏**。
 
-**当前状态**(2026-06-16):
+**当前状态**(2026-06-18):
 - v1 (2B+LoRA SFT) — 已废,8 道方剂题全错
 - v2 (8B full SFT 168 万双轨) — 已冷冻,实测推理差(2026-06-11)
-- v3 (LoRA + GRPO + RLVR) — **工程闭环跑通**,RL 效果零(配置问题,详见 `docs/v3-grpo.md`)
+- v3 GRPO (LoRA + GRPO + RLVR) — 工程闭环跑通,RL 效果零(详见 `docs/v3-grpo.md`)
+- **v3 DPO (Qwen3-8B + LoRA + 双老师蒸馏)** — **工程闭环跑通**,数据 43k 配对 + 训练已 3 次启动验证(详见 `v3/dpo/README.md`)
 
-横向对照:跟开源医疗 SOTA **Baichuan-M2-32B** 同题对比 7/7 全过,印证了 v2 "蒸馏数据 SFT 学不到真推理" 的判断(详见 `docs/baichuan-m2-comparison.md`)。
+横向对照:跟开源医疗 SOTA **Baichuan-M2-32B** 同题对比 7/7 全过,印证了 v2 "蒸馏数据 SFT 学不到真推理" 的判断(详见 `docs/baichuan-m2-comparison.md`),并据此把 M2 引入为 v3 DPO 的 TCM 老师.
 
 ## 项目定位
 
@@ -130,18 +131,31 @@ medical_sft/
 │       ├── seed_questions.jsonl    种子题集
 │       ├── seed_report.html        评测报告
 │       └── ...
-└── v3/                             v3 工程(GRPO RLVR 跑通)
+└── v3/                             v3 工程(GRPO + DPO)
     ├── README.md                   v3 一句话定调 + 算法配方 + 文件清单
-    ├── mcq_reward.py               自定义 reward 插件(MCQAccuracy + MCQFormat)
+    ├── mcq_reward.py               GRPO 自定义 reward 插件
     ├── prep_medical_mcq.py         CMMLU 医学子集 → train/heldout
     ├── find_medical_mcq.py         CMMLU schema 探查
-    ├── run_grpo.py                 fd-wrapper(本地 smoke 用)
-    ├── grpo_mcq.sh                 本地 hjw DSW 单卡 smoke launcher
-    ├── grpo_mcq_dlc.sh             DLC 8 卡全量 launcher
-    └── eval/                       开源医疗对照评估
-        ├── test_m2_inference.py    Baichuan-M2-32B 7 题对照
-        ├── download_baichuan_m2.py
-        └── bcm2_probe.py
+    ├── run_grpo.py                 GRPO fd-wrapper
+    ├── grpo_mcq.sh / grpo_mcq_dlc.sh   GRPO launcher
+    ├── eval/                       开源医疗对照评估
+    │   ├── test_m2_inference.py    Baichuan-M2-32B 7 题对照
+    │   ├── download_baichuan_m2.py
+    │   └── bcm2_probe.py
+    └── dpo/                        ★ DPO 双老师蒸馏 (本会话产出)
+        ├── README.md               双老师 + 4 件套数据 + Phase 4 launcher 详解
+        ├── 01-08_*.py              prompt 池构建 (v2 抽样 + Sonnet 过滤 + Opus 自生成)
+        ├── 09_taskC_opus_chosen.py     Task C: Opus 网关 EBM/General chosen
+        ├── 10_taskA_m2_chosen.py       Task A: M2 vllm TCM chosen
+        ├── 11_taskB_qwen3_rejected.py  Task B: Qwen3-8B 自答 rejected
+        ├── 12_taskD_m2_missing_chosen.py  Task D: M2 兜底 work-stealing queue
+        ├── 13_filter_chosen.py     token 反推 finish_reason 通用过滤
+        ├── 14_smoke_max_tokens.py  max_tokens SOP smoke 工具
+        ├── 15_taskE_rerun_bad.py   Task E: 重跑撞顶 4307 (含 finish_reason 字段)
+        ├── 16_prepare_dpo_dataset.py   4 chosen + rejected → ms-swift DPO 格式
+        ├── taskA-E_*_dlc.sh        Phase 2 DLC launcher
+        ├── taskF_dpo_2node_dlc.sh  ★ Phase 4 DPO 训练 launcher (2 节点 × 8 卡)
+        └── audit/compact.py        1000 对 chosen vs rejected audit 工具
 ```
 
 ## 部署步骤(v2)

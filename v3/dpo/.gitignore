@@ -1,0 +1,19 @@
+# Phase 2 audit 数据 (含真实医疗对话, 不公开)
+audit/audit_1000.jsonl
+audit/audit_1000_compact.txt
+
+# 训练产物 (本地路径, 不进 repo)
+*.staging.shard*
+*_clean.jsonl
+*_bad_full.jsonl
+*_bad_ids.txt
+all_bad_ids_*.txt
+chosen_*.jsonl
+rejected_*.jsonl
+prompts_*.jsonl
+dpo_train_*.jsonl
+
+# 通用
+__pycache__/
+*.pyc
+.DS_Store
