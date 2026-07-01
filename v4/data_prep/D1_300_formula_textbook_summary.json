@@ -1,0 +1,40 @@
+{
+  "total": 300,
+  "p0": 119,
+  "p1": 181,
+  "qa_status_counts": {
+    "已从教材PDF抽取待人工复核": 61,
+    "注意/禁忌待补核": 235,
+    "同名/多出处需复核": 3,
+    "未定位": 1
+  },
+  "indexed_formula_entries": 414,
+  "skipped_p1_missing_required_fields": 22,
+  "skipped_p1_missing_required_field_names": [
+    "三圣散",
+    "大活络丹",
+    "木香顺气散",
+    "五磨饮子",
+    "升陷汤",
+    "甘草泻心汤",
+    "左归饮",
+    "四加减正气散",
+    "生铁落饮",
+    "加味逍遥散",
+    "当归饮子",
+    "防己茯苓汤",
+    "还少丹",
+    "连梅安蛔汤",
+    "补肝汤",
+    "建瓴汤",
+    "荆防败毒散",
+    "枳实薤白桂枝汤",
+    "香连丸",
+    "保元大成汤",
+    "保产无忧散",
+    "举元煎"
+  ],
+  "output_csv": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_300_formula_textbook_extracted.csv",
+  "qa_csv": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_300_formula_textbook_QA.csv",
+  "snippet_dir": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_formula_snippets_300"
+}

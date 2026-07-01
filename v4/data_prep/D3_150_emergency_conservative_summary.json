@@ -1,0 +1,14 @@
+{
+  "total": 150,
+  "p0": 30,
+  "p1": 120,
+  "qa_status_counts": {
+    "需PDF页码二核": 16,
+    "版本冲突待确认": 1,
+    "待指南检索": 13,
+    "P1待指南检索": 120
+  },
+  "output_csv": "D3_150_emergency_conservative.csv",
+  "qa_csv": "D3_150_emergency_conservative_QA.csv",
+  "warning": "D3除已填P0草稿外，P1只做检索占位，不含未经核验剂量；全表不可直接入训。"
+}

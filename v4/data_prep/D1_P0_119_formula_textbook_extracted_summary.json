@@ -1,0 +1,12 @@
+{
+  "total": 119,
+  "qa_status_counts": {
+    "已从教材PDF抽取待人工复核": 38,
+    "注意/禁忌待补核": 77,
+    "同名/多出处需复核": 3,
+    "未定位": 1
+  },
+  "output_csv": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_P0_119_formula_textbook_extracted.csv",
+  "qa_csv": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_P0_119_formula_textbook_QA.csv",
+  "snippet_dir": "C:\\Users\\PC\\Claude脚本\\medical_sft\\v4\\data_prep\\D1_formula_snippets"
+}

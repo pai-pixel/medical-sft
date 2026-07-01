@@ -15,6 +15,18 @@ datasets_local/
 # v3 DPO audit 抽样 (合成 chosen/rejected 配对, 无 PII, 展示用)
 !v3/dpo/audit/audit_1000.jsonl
 
+# v4 数据样本例外 (evasive samples / official entries 等小 jsonl)
+!v4/**/*.jsonl
+
+# v4 raw 目录 (爬虫原页 / pdf 页级切片, 无复用价值, 不推)
+v4/data_prep/D1_formula_snippets/
+v4/data_prep/D1_formula_snippets_300/
+v4/data_prep/D2_39ypk_raw/
+v4/data_prep/D2_400_39ypk_raw/
+v4/data_prep/D4_39ypk_raw/
+v4/data_prep/NHC_NEML_2018_pages_text/
+v4/data_prep/NHC_NEML_2018.pdf
+
 # checkpoints
 *.safetensors
 *.bin

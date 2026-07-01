@@ -1,0 +1,15 @@
+{
+  "total": 400,
+  "p0": 80,
+  "p1": 320,
+  "qa_status_counts": {
+    "需NMPA/原厂二核": 16,
+    "字段不完整": 1,
+    "未匹配说明书": 383
+  },
+  "official_base_source": "NHC_NEML_2018.pdf",
+  "nonofficial_leaf_source": "39药品通说明书，仅作预填；需NMPA/CDE/原厂二核",
+  "output_csv": "D2_400_western_meds_conservative.csv",
+  "qa_csv": "D2_400_western_meds_QA.csv",
+  "raw_dir": "D2_400_39ypk_raw"
+}
