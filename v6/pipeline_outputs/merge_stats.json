@@ -1,0 +1,25 @@
+{
+  "total_before_dedup": 19998,
+  "total_after_dedup": 19710,
+  "dropped_dup": 288,
+  "by_source_file": {
+    "d1_textbook_tcm_seed.jsonl": 1000,
+    "hf_cmb_train_1000.jsonl": 1000,
+    "hf_medical_o1_acute_3000.jsonl": 3000,
+    "hf_short_qa_4000.jsonl": 4000,
+    "opus_acute_gen.jsonl": 1998,
+    "opus_mcq_gen_gen.jsonl": 4000,
+    "opus_short_gen.jsonl": 1000,
+    "opus_tcm_gen.jsonl": 4000
+  },
+  "by_category": {
+    "mcq": 4999,
+    "tcm": 5000,
+    "short": 5000,
+    "acute": 4711
+  },
+  "by_source_type": {
+    "opus": 10998,
+    "hf": 8712
+  }
+}

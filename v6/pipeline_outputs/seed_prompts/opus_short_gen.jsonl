@@ -1,0 +1,1000 @@
+{"prompt": "布洛芬和头孢能一起吃吗?急", "category": "short", "gt_answer": null, "id": "opus_short_00000", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "刚吃完降压药又喝了两口酒,会不会出事啊????", "category": "short", "gt_answer": null, "id": "opus_short_00001", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "血压一直不降,我能把络活喜从一片加到两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00002", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "感冒药和维C银翘片一块儿吃行不", "category": "short", "gt_answer": null, "id": "opus_short_00003", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "刚才吃了阿莫西林 现在浑身痒 是过敏吗", "category": "short", "gt_answer": null, "id": "opus_short_00004", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "二甲双胍我吃了没啥反应 能自己加量吗", "category": "short", "gt_answer": null, "id": "opus_short_00005", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我妈同时吃着华法林 医生又开了阿司匹林 这俩能一起?", "category": "short", "gt_answer": null, "id": "opus_short_00006", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "刚喝完中药就吃了个柚子…要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00007", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "安眠药一片睡不着 能加到两片吗 别墨迹", "category": "short", "gt_answer": null, "id": "opus_short_00008", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "甲钴胺跟叶酸这俩能同时吃么 谢谢", "category": "short", "gt_answer": null, "id": "opus_short_00009", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "体检说我尿酸530,是不是很高啊?会不会痛风?我平时也没咋吃海鲜", "category": "short", "gt_answer": null, "id": "opus_short_00010", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃完虾脸有点痒,是过敏吗急", "category": "short", "gt_answer": null, "id": "opus_short_00011", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降压药吃完了要复诊 但是最近没空去 能自己去药店买一样的继续吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00012", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "报告单甘油三酯4.2箭头朝上,严重吗医生?", "category": "short", "gt_answer": null, "id": "opus_short_00013", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚喝了藿香正气水,脸红发烫心跳快 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00014", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲状腺的优甲乐吃完了 上次医生让一个月复查 我忘了 现在还能接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00015", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "糖化血红蛋白7.1 高多少啊 需要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00016", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃了头孢 又喝了一口啤酒 完了完了会死吗?!", "category": "short", "gt_answer": null, "id": "opus_short_00017", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "抑郁症的药明天吃完了 但复诊挂不上号 断几天要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00018", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "转氨酶110高不高 我不喝酒的啊 怎么会这样", "category": "short", "gt_answer": null, "id": "opus_short_00019", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "最近换季了嗓子干得要命,一说话就想咳,水也喝了没用,咋整啊", "category": "short", "gt_answer": null, "id": "opus_short_00020", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "连熬三天夜今天头晕晕的站起来眼前发黑 危险吗", "category": "short", "gt_answer": null, "id": "opus_short_00021", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后症状"}}
+{"prompt": "布洛芬和头孢能一起吃吗?牙疼死了还发烧", "category": "short", "gt_answer": null, "id": "opus_short_00022", "source": "opus-4-7-generated-short", "meta": {"topic": "药物相互作用"}}
+{"prompt": "胃胀气一整天了打嗝停不下来 难受", "category": "short", "gt_answer": null, "id": "opus_short_00023", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "失眠一周了 每天两三点才睡着 白天还得上班 快崩溃了怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00024", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠"}}
+{"prompt": "胳膊上突然起了一片小红点 有点痒 不疼 是啥啊", "category": "short", "gt_answer": null, "id": "opus_short_00025", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "感冒药能配着维C泡腾片一起喝吗 会不会有事", "category": "short", "gt_answer": null, "id": "opus_short_00026", "source": "opus-4-7-generated-short", "meta": {"topic": "药物相互作用"}}
+{"prompt": "嗓子疼吞口水都疼 但是不发烧 需要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00027", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "换季鼻子痒喷嚏打不停眼睛也痒 是过敏还是感冒啊分不清", "category": "short", "gt_answer": null, "id": "opus_short_00028", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "降压药早上忘吃了 现在中午了 要补吗还是等晚上", "category": "short", "gt_answer": null, "id": "opus_short_00029", "source": "opus-4-7-generated-short", "meta": {"topic": "药物咨询"}}
+{"prompt": "降压药一片没效果,能自己加到两片吗?急", "category": "short", "gt_answer": null, "id": "opus_short_00030", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "二甲双胍和感冒灵能一起吃吗?刚吃完饭就感冒了,头疼死了", "category": "short", "gt_answer": null, "id": "opus_short_00031", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "胸口闷闷的好几天了,喘不上气,好慌啊", "category": "short", "gt_answer": null, "id": "opus_short_00032", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "孩子退烧药(布洛芬)量给少了半毫升,要不要补?", "category": "short", "gt_answer": null, "id": "opus_short_00033", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "头孢跟藿香正气水能一块喝么快回", "category": "short", "gt_answer": null, "id": "opus_short_00034", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "右下腹一阵一阵疼,坐着都难受,是不是阑尾啊??", "category": "short", "gt_answer": null, "id": "opus_short_00035", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "安眠药吃了没用,能再加半片吗", "category": "short", "gt_answer": null, "id": "opus_short_00036", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "我在吃抗抑郁的药,朋友给了瓶褪黑素,能一起吃不?怕出事", "category": "short", "gt_answer": null, "id": "opus_short_00037", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "后脑勺一跳一跳的疼,眼睛都睁不开了,烦死", "category": "short", "gt_answer": null, "id": "opus_short_00038", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "血糖降太多了,二甲双胍能减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00039", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "医生我这个降压药一天一片能不能改成半片啊 头晕得厉害", "category": "short", "gt_answer": null, "id": "opus_short_00040", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "月经推迟十天了 没怀孕 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00041", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "布洛芬和头孢能一起吃吗?头疼死了嗓子还发炎急", "category": "short", "gt_answer": null, "id": "opus_short_00042", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "二甲双胍我自己加到一天三片行不行 血糖还是高", "category": "short", "gt_answer": null, "id": "opus_short_00043", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "来月经才三天就没了 量特别少 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00044", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "感冒药和降压药一起吃会不会有问题啊?刚吃完降压又想吃感冒灵", "category": "short", "gt_answer": null, "id": "opus_short_00045", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "抗抑郁药我想减一半 副作用太难受了 可以吗", "category": "short", "gt_answer": null, "id": "opus_short_00046", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "这月来了两次月经 是不是有毛病啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00047", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "阿莫西林能跟蒙脱石散一起吃吗 拉肚子又嗓子疼 急", "category": "short", "gt_answer": null, "id": "opus_short_00048", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "经期都十几天了还没干净 血还有点黑 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00049", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "我妈六十八了刚才突然头晕站不稳，坐下就好点，要不要去医院啊？急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00050", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "孩子三岁半发烧38.2，精神还行，能不能先物理降温不吃药？", "category": "short", "gt_answer": null, "id": "opus_short_00051", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "嗓子疼两天了，咽口水都疼，不发烧，是不是要吃消炎药", "category": "short", "gt_answer": null, "id": "opus_short_00052", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "布洛芬和阿莫西林能一起吃么？在线等", "category": "short", "gt_answer": null, "id": "opus_short_00053", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "我爸血压高的药刚吃，又想吃感冒药，会不会冲突啊", "category": "short", "gt_answer": null, "id": "opus_short_00054", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "胃胀了一下午 打嗝还打不出来 难受死了 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00055", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "娃后背起了一片小红疹子，不痒也不哭，是不是热的？要抹啥不", "category": "short", "gt_answer": null, "id": "opus_short_00056", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "老人早上起床天旋地转的躺一会儿又好了 这是咋回事 要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00057", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "头晕一整天了眼睛也花 是不是低血糖啊 中午没咋吃", "category": "short", "gt_answer": null, "id": "opus_short_00058", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒灵和头孢能一起吃吗？我怕出事", "category": "short", "gt_answer": null, "id": "opus_short_00059", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "我最近老头晕,一站起来眼前发黑,是不是低血糖啊?吓死了", "category": "short", "gt_answer": null, "id": "opus_short_00060", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "嗓子疼两天了,咽口水都疼,没发烧,要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00061", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "吃完饭老胀气,一晚上肚子鼓得像球,咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00062", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩,痒得不行,是过敏吗?没换洗衣液啊", "category": "short", "gt_answer": null, "id": "opus_short_00063", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "降压药(氨氯地平)吃完了,还没排上复诊号,先接着买一样的吃行不", "category": "short", "gt_answer": null, "id": "opus_short_00064", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "医生开的抗抑郁药到期了,最近感觉挺好的,是不是可以不吃了?", "category": "short", "gt_answer": null, "id": "opus_short_00065", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "甲状腺的药(优甲乐)明天就没了,复诊要下周,断几天有事吗", "category": "short", "gt_answer": null, "id": "opus_short_00066", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "二甲双胍现在一天两片,血糖还是高,我自己加到三片行不行啊", "category": "short", "gt_answer": null, "id": "opus_short_00067", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "安眠药吃了不管用,能自己多吃半片吗?一晚上没睡真受不了了", "category": "short", "gt_answer": null, "id": "opus_short_00068", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "孩子退烧药(布洛芬)按体重我算不明白,能不能少喂点,怕伤肝", "category": "short", "gt_answer": null, "id": "opus_short_00069", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "早上蹲下再站起来眼前发黑,好几秒才缓过来,天天这样正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00070", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼三天了,咽口水都费劲,不发烧,要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00071", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "胃胀气一整天了 打嗝不停 饭都吃不下 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00072", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩,痒得抓心挠肝的,是不是过敏了啊", "category": "short", "gt_answer": null, "id": "opus_short_00073", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "体检报告写着尿酸498,医生说偏高,我才28岁,严重吗?要忌口啥", "category": "short", "gt_answer": null, "id": "opus_short_00074", "source": "opus-4-7-generated-short", "meta": {"topic": "尿酸偏高"}}
+{"prompt": "甲功五项里TSH 6.8,其他都正常,这是甲减吗?需要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00075", "source": "opus-4-7-generated-short", "meta": {"topic": "甲状腺指标"}}
+{"prompt": "低密度脂蛋白4.2 医生让我先饮食控制 真的能降下来吗急", "category": "short", "gt_answer": null, "id": "opus_short_00076", "source": "opus-4-7-generated-short", "meta": {"topic": "血脂偏高"}}
+{"prompt": "大姨妈这月推迟十几天还没来,验孕棒也没两条杠,咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00077", "source": "opus-4-7-generated-short", "meta": {"topic": "月经推迟"}}
+{"prompt": "月经量突然变超少 两天就没了 以前都五六天 是不是卵巢出问题了 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00078", "source": "opus-4-7-generated-short", "meta": {"topic": "月经量少"}}
+{"prompt": "头晕好几天了 感觉飘飘的 是不是颈椎问题啊 我天天低头", "category": "short", "gt_answer": null, "id": "opus_short_00079", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "完了完了后脑勺一跳一跳的疼,已经两天了,我是不是脑子里长东西了啊😭", "category": "short", "gt_answer": null, "id": "opus_short_00080", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢现在牙又疼想吃布洛芬,急!", "category": "short", "gt_answer": null, "id": "opus_short_00081", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服咨询"}}
+{"prompt": "嗓子疼得咽口水都费劲,像刀割一样,要不要去医院啊", "category": "short", "gt_answer": null, "id": "opus_short_00082", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胃胀气 一整天了 屁还特别多 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00083", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "蹲下去站起来就眼前一黑,是不是低血糖?我早上没吃饭", "category": "short", "gt_answer": null, "id": "opus_short_00084", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒药(白加黑)和消炎药阿莫西林能一块儿吃不,别整出事来", "category": "short", "gt_answer": null, "id": "opus_short_00085", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服咨询"}}
+{"prompt": "腰快断了 弯不下去 昨天搬了个箱子 现在坐着都难受", "category": "short", "gt_answer": null, "id": "opus_short_00086", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "身上莫名其妙起了一片红疙瘩,痒死了,是不是过敏啊?没吃啥新东西", "category": "short", "gt_answer": null, "id": "opus_short_00087", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "降压药忘吃了,现在补一片,晚上那顿还吃吗?会不会低血压", "category": "short", "gt_answer": null, "id": "opus_short_00088", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服咨询"}}
+{"prompt": "右边肋骨底下隐隐作痛好几天了 不敢深呼吸 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00089", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢又头疼想吃止痛药", "category": "short", "gt_answer": null, "id": "opus_short_00090", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我妈六十多了刚才突然说头晕站不稳,坐下来好点了,血压量了一百四多,要不要去医院啊急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00091", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "嗓子疼得咽口水都疼,不发烧,咋办", "category": "short", "gt_answer": null, "id": "opus_short_00092", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒药能配着阿莫西林吃不", "category": "short", "gt_answer": null, "id": "opus_short_00093", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "宝宝一岁半半夜突然哭闹摸着有点烫,量了三十八度五,家里就有美林,能喂吗?要不要马上跑医院", "category": "short", "gt_answer": null, "id": "opus_short_00094", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "胃胀气一整天了 打嗝也打不出来 难受死了", "category": "short", "gt_answer": null, "id": "opus_short_00095", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "身上起了一片小红疹子,痒,不知道是不是过敏,昨天吃了海鲜", "category": "short", "gt_answer": null, "id": "opus_short_00096", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "维生素c和感冒灵冲剂能一块喝么", "category": "short", "gt_answer": null, "id": "opus_short_00097", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸七十岁刚吃完饭说胸口闷,出了点汗,现在躺着好点了,他不肯去医院我该怎么办急", "category": "short", "gt_answer": null, "id": "opus_short_00098", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "早上起来一直头晕晕的,不是天旋地转那种,就是懵,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00099", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "体检报告说我尿酸偏高,470多,我平时也不爱吃海鲜啊,咋回事?严重吗", "category": "short", "gt_answer": null, "id": "opus_short_00100", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "甘油三酯3.8高不高啊 医生", "category": "short", "gt_answer": null, "id": "opus_short_00101", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "报告单上转氨酶60多,是不是肝出问题了?我很慌", "category": "short", "gt_answer": null, "id": "opus_short_00102", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "糖化血红蛋白6.3,算糖尿病了吗??", "category": "short", "gt_answer": null, "id": "opus_short_00103", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "最近换季鼻子一直堵,喷嚏打不停,眼睛也痒,咋办", "category": "short", "gt_answer": null, "id": "opus_short_00104", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "连着加班一周了,今天早上起床头晕心慌,是累的吗?要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00105", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "失眠三天了 整个人都废了 有啥办法能睡着", "category": "short", "gt_answer": null, "id": "opus_short_00106", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "降压药(氨氯地平)现在吃5mg血压还是有点高,能自己加到10mg吗", "category": "short", "gt_answer": null, "id": "opus_short_00107", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "二甲双胍我吃着胃难受,能减半吗大夫", "category": "short", "gt_answer": null, "id": "opus_short_00108", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "优甲乐一天一片半 感觉心慌手抖 能减点不", "category": "short", "gt_answer": null, "id": "opus_short_00109", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "完了刚吃完虾就浑身痒 脸也红了 咋办啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00110", "source": "opus-4-7-generated-short", "meta": {"topic": "食物过敏反应"}}
+{"prompt": "头晕 站起来就天旋地转的 这几天老这样", "category": "short", "gt_answer": null, "id": "opus_short_00111", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "吃了布洛芬十分钟胃开始烧 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00112", "source": "opus-4-7-generated-short", "meta": {"topic": "药物反应"}}
+{"prompt": "嗓子疼死了 咽口水都疼 是不是发炎了啊", "category": "short", "gt_answer": null, "id": "opus_short_00113", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "我后腰这里酸了两天了 一按就疼 是不是肾出问题了 好害怕", "category": "short", "gt_answer": null, "id": "opus_short_00114", "source": "opus-4-7-generated-short", "meta": {"topic": "腰部不适"}}
+{"prompt": "胃胀得像气球 打嗝也打不出来 难受", "category": "short", "gt_answer": null, "id": "opus_short_00115", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "胳膊上突然冒了一片小红疙瘩 还痒 什么鬼", "category": "short", "gt_answer": null, "id": "opus_short_00116", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "刚喝完头孢 又想起来中午喝过啤酒 会不会出事啊啊啊", "category": "short", "gt_answer": null, "id": "opus_short_00117", "source": "opus-4-7-generated-short", "meta": {"topic": "药物反应"}}
+{"prompt": "心口这里闷闷的 喘不上气 是不是心脏有事", "category": "short", "gt_answer": null, "id": "opus_short_00118", "source": "opus-4-7-generated-short", "meta": {"topic": "胸闷不适"}}
+{"prompt": "吃了两口芒果嘴唇发麻 是过敏吗", "category": "short", "gt_answer": null, "id": "opus_short_00119", "source": "opus-4-7-generated-short", "meta": {"topic": "食物反应"}}
+{"prompt": "刚吃了半个芒果嘴巴周围有点痒 是过敏吗急", "category": "short", "gt_answer": null, "id": "opus_short_00120", "source": "opus-4-7-generated-short", "meta": {"topic": "食物过敏反应"}}
+{"prompt": "体检报告尿酸485 医生说偏高 严重不？平时要注意啥", "category": "short", "gt_answer": null, "id": "opus_short_00121", "source": "opus-4-7-generated-short", "meta": {"topic": "尿酸偏高"}}
+{"prompt": "我妈78了 刚才突然说头晕 想吐 现在躺床上脸色发白 要不要叫救护车啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00122", "source": "opus-4-7-generated-short", "meta": {"topic": "老人突发头晕"}}
+{"prompt": "吃了颗布洛芬（芬必得）胃有点烧 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00123", "source": "opus-4-7-generated-short", "meta": {"topic": "药物胃部反应"}}
+{"prompt": "甘油三酯3.8 高吗？需要吃药么", "category": "short", "gt_answer": null, "id": "opus_short_00124", "source": "opus-4-7-generated-short", "meta": {"topic": "血脂偏高"}}
+{"prompt": "宝宝一岁半 半夜突然哭 摸着额头烫 量了38.9 要不要现在就去医院啊 家里只有退热贴", "category": "short", "gt_answer": null, "id": "opus_short_00125", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩夜间发热"}}
+{"prompt": "刚喝了牛奶就拉肚子 是乳糖不耐？", "category": "short", "gt_answer": null, "id": "opus_short_00126", "source": "opus-4-7-generated-short", "meta": {"topic": "食物不耐受"}}
+{"prompt": "报告单写着幽门螺杆菌阳性 严重么 会传染家里人吗", "category": "short", "gt_answer": null, "id": "opus_short_00127", "source": "opus-4-7-generated-short", "meta": {"topic": "幽门螺杆菌阳性"}}
+{"prompt": "我爸吃降压药（络活喜）半小时了 说心跳快 头有点晕 是副作用吗 要停药吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00128", "source": "opus-4-7-generated-short", "meta": {"topic": "老人服药不适"}}
+{"prompt": "空腹血糖6.5 是糖尿病了？", "category": "short", "gt_answer": null, "id": "opus_short_00129", "source": "opus-4-7-generated-short", "meta": {"topic": "血糖偏高"}}
+{"prompt": "早上起来头晕晕的,站起来眼前一黑,咋回事啊?", "category": "short", "gt_answer": null, "id": "opus_short_00130", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼得吞口水都难受,是不是要发烧了…", "category": "short", "gt_answer": null, "id": "opus_short_00131", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "我妈70了,今早突然说胸口闷,喘不上气,现在人有点蔫,要不要立马去医院啊?急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00132", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "胃胀气,一直打嗝,饭都吃不下", "category": "short", "gt_answer": null, "id": "opus_short_00133", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "孩子三岁,半夜发烧到38度9,喂了退烧药还是烫,要不要送急诊啊??", "category": "short", "gt_answer": null, "id": "opus_short_00134", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩发烧"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩,痒得要命,抓破了几个", "category": "short", "gt_answer": null, "id": "opus_short_00135", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "腰疼三天了,弯不下去,烦", "category": "short", "gt_answer": null, "id": "opus_short_00136", "source": "opus-4-7-generated-short", "meta": {"topic": "腰痛"}}
+{"prompt": "我爸六十多,最近老说腿麻,坐一会儿就没知觉,是不是血管有问题啊担心死了", "category": "short", "gt_answer": null, "id": "opus_short_00137", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "太阳穴一跳一跳的疼,吃了止痛片没用……", "category": "short", "gt_answer": null, "id": "opus_short_00138", "source": "opus-4-7-generated-short", "meta": {"topic": "头痛"}}
+{"prompt": "眼皮跳了一整天了,烦!是不是缺什么啊", "category": "short", "gt_answer": null, "id": "opus_short_00139", "source": "opus-4-7-generated-short", "meta": {"topic": "眼皮跳"}}
+{"prompt": "降压药能自己加半片吗?最近老是160多", "category": "short", "gt_answer": null, "id": "opus_short_00140", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我妈78了突然说胸口闷,冒冷汗,人还清醒,要不要现在就叫救护车啊?她自己说歇会儿就好我特别慌", "category": "short", "gt_answer": null, "id": "opus_short_00141", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "布洛芬和感冒灵能一起吃吗?头疼得受不了", "category": "short", "gt_answer": null, "id": "opus_short_00142", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "二甲双胍我能减到一天一次不", "category": "short", "gt_answer": null, "id": "opus_short_00143", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "孩子三岁半半夜烧到39.2,吃了退烧药才降到38又上去了,手脚冰凉在抖,这样正常吗急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00144", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "阿莫西林和止咳糖浆一起喝有事吗", "category": "short", "gt_answer": null, "id": "opus_short_00145", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "安眠药一片不管用能吃两片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00146", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我爸69,刚吃完饭突然左手抬不起来了,说话也有点含糊,人是清醒的,现在到底该怎么办啊??", "category": "short", "gt_answer": null, "id": "opus_short_00147", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "降压药和头孢能一起吃吗急", "category": "short", "gt_answer": null, "id": "opus_short_00148", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "他汀漏吃一天第二天要吃两片补吗", "category": "short", "gt_answer": null, "id": "opus_short_00149", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "胃疼一整天了,一阵一阵的绞,难受死了,不敢吃东西怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00150", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "降压药我能自己减一半吗?最近血压有点低,头晕", "category": "short", "gt_answer": null, "id": "opus_short_00151", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "上次开的二甲双胍快吃完了,还没约上号,要不要先接着买着吃?", "category": "short", "gt_answer": null, "id": "opus_short_00152", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期续药"}}
+{"prompt": "后背这块儿疼好几天了,一深呼吸就抽一下,好慌是不是心脏出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00153", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "安眠药半片不管用,能加到一片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00154", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "娃嗓子哑三天了还咳,声音跟破锣一样,愁死我了", "category": "short", "gt_answer": null, "id": "opus_short_00155", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "抗抑郁药(舍曲林)吃完了,医生说复诊,可我请不下假,能先自己买着继续吗", "category": "short", "gt_answer": null, "id": "opus_short_00156", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期续药"}}
+{"prompt": "来大姨妈肚子疼到打滚,腰也酸,吐了两回,这正常吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00157", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "甲状腺的药最近查指标正常了,能减量吗?", "category": "short", "gt_answer": null, "id": "opus_short_00158", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "降糖药明天就没了复诊还得等一周要不要停两天等复诊", "category": "short", "gt_answer": null, "id": "opus_short_00159", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期续药"}}
+{"prompt": "早上起来头晕晕的,站起来眼前发黑,咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00160", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼两天了 咽口水都疼 需要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00161", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "胃胀气胀得难受,一直打嗝放屁,啥都没吃啊", "category": "short", "gt_answer": null, "id": "opus_short_00162", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩,还痒,是不是过敏了?", "category": "short", "gt_answer": null, "id": "opus_short_00163", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "这个月大姨妈推迟十天了 没怀孕 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00164", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "月经量特别少 就一点点 才两天就没了 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00165", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "我妈今年68 突然说心慌胸闷 冒冷汗 现在人还清醒 要不要叫救护车啊 急死了", "category": "short", "gt_answer": null, "id": "opus_short_00166", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "宝宝一岁半 半夜发烧38度9 精神还行 现在给他吃退烧药合适吗 好担心", "category": "short", "gt_answer": null, "id": "opus_short_00167", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩发烧"}}
+{"prompt": "我爸血压突然量出来180 头有点晕 平时也吃着药呢 咋办急死了", "category": "short", "gt_answer": null, "id": "opus_short_00168", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "娃刚才吐了两次 拉肚子三回 蔫蔫的不想动 要去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00169", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩不适"}}
+{"prompt": "换季就嗓子疼流鼻涕,每年都这样烦死了,咋整啊", "category": "short", "gt_answer": null, "id": "opus_short_00170", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "连着熬夜一周,今早起来心慌手抖,是不是猝死前兆啊我怕", "category": "short", "gt_answer": null, "id": "opus_short_00171", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "失眠三天了 头晕眼花的 能吃点啥安眠药不", "category": "short", "gt_answer": null, "id": "opus_short_00172", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "最近特别累,睡醒还是困,浑身酸,是不是身体出啥问题了", "category": "short", "gt_answer": null, "id": "opus_short_00173", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "这个月大姨妈才来了三天就没了,量还少,咋回事?", "category": "short", "gt_answer": null, "id": "opus_short_00174", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "月经推迟十天了 没同房 会是啥原因啊 好烦", "category": "short", "gt_answer": null, "id": "opus_short_00175", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "经期血块特别多,颜色发黑,肚子疼得打滚,正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00176", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "两个月没来月经了 之前一直挺准的 需要去查啥", "category": "short", "gt_answer": null, "id": "opus_short_00177", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "体检报告尿酸500多,医生说偏高,我才30岁啊,严重吗要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00178", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "甲功报告促甲状腺素6.8,偏高,啥意思啊?严重不", "category": "short", "gt_answer": null, "id": "opus_short_00179", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢半小时头又疼死了", "category": "short", "gt_answer": null, "id": "opus_short_00180", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "月经推迟十几天了 没怀孕 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00181", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "降压药吃完了 医生让复诊我没空去 能自己去药店再买一盒吗", "category": "short", "gt_answer": null, "id": "opus_short_00182", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "感冒药和维生素c一起吃行不", "category": "short", "gt_answer": null, "id": "opus_short_00183", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "这个月大姨妈来两次了 第二次量还特别少 正常吗急死", "category": "short", "gt_answer": null, "id": "opus_short_00184", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 复查还没排上 能先停几天吗", "category": "short", "gt_answer": null, "id": "opus_short_00185", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "阿莫西林能配蒙脱石散一起喝么 拉肚子又嗓子疼", "category": "short", "gt_answer": null, "id": "opus_short_00186", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "痛经痛到打滚 这次比以前严重好多 是不是有问题啊", "category": "short", "gt_answer": null, "id": "opus_short_00187", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "抑郁症的药吃完了 医生说要复诊 但我最近状态挺好的 是不是可以不吃了", "category": "short", "gt_answer": null, "id": "opus_short_00188", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "止疼片和安眠药能一起吃不 睡不着还牙疼要命", "category": "short", "gt_answer": null, "id": "opus_short_00189", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "降压药明天就吃完了,还没约到号,先接着吃老的行不行?", "category": "short", "gt_answer": null, "id": "opus_short_00190", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "感冒药和头孢能一块儿吃吗急", "category": "short", "gt_answer": null, "id": "opus_short_00191", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我妈七十多了突然说胸口闷,冒冷汗,人还清醒,要不要现在打120啊?我在外地急死了", "category": "short", "gt_answer": null, "id": "opus_short_00192", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抑郁的药下周复诊,药只剩三天了,能先自己去药店买同款接上不", "category": "short", "gt_answer": null, "id": "opus_short_00193", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "布洛芬刚吃完又吃了对乙酰氨基酚 会不会有事啊", "category": "short", "gt_answer": null, "id": "opus_short_00194", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "孩子两岁半半夜烧到39.2,喂了美林还不退,手脚有点凉,要不要去医院?我一个人在家好慌", "category": "short", "gt_answer": null, "id": "opus_short_00195", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "甲状腺的优甲乐没了,复诊要等半个月,停几天没事吧?", "category": "short", "gt_answer": null, "id": "opus_short_00196", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药和阿司匹林还有他汀 早上能一起吞吗", "category": "short", "gt_answer": null, "id": "opus_short_00197", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸八十了刚才滑了一下,屁股着地,现在能走但喊疼,要不要去拍片?他不肯去医院烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00198", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "胰岛素明天用完 医生号约到下周三 中间怎么办啊?", "category": "short", "gt_answer": null, "id": "opus_short_00199", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "布洛芬和头孢能一起吃吗?头有点疼嗓子也发炎", "category": "short", "gt_answer": null, "id": "opus_short_00200", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我妈78了突然说胸口闷 出了一身冷汗 现在人还清醒 需要马上叫救护车吗 我一个人在家好慌", "category": "short", "gt_answer": null, "id": "opus_short_00201", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "这个月月经来了十几天还没干净 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00202", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "感冒药(泰诺)刚吃完 能再吃阿莫西林么", "category": "short", "gt_answer": null, "id": "opus_short_00203", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "孩子三岁 半夜发烧39度 喂了美林还是烫 现在一直哭闹不睡 要不要现在就往医院跑啊", "category": "short", "gt_answer": null, "id": "opus_short_00204", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "姨妈推迟快20天了 没怀孕 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00205", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "降压药和感冒冲剂能一块儿吃不 别出事啊", "category": "short", "gt_answer": null, "id": "opus_short_00206", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸刚吃完饭突然说右边手抬不起来 说话也有点大舌头 才60岁 这是中风了吗 我现在该怎么办急死了", "category": "short", "gt_answer": null, "id": "opus_short_00207", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "月经量少的可怜 就一点点两天没了", "category": "short", "gt_answer": null, "id": "opus_short_00208", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "维生素和左氧氟沙星隔多久吃合适 直接一起行不", "category": "short", "gt_answer": null, "id": "opus_short_00209", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "这月大姨妈推迟快十天了 也没怀孕 咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00210", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "经血黑黑的还有血块 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00211", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "月经来了半个月还没干净 我是不是有病啊", "category": "short", "gt_answer": null, "id": "opus_short_00212", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "换季就失眠 一躺床上脑子转个不停 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00213", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "最近加班太狠了 天天三四点才睡 头晕心慌 是不是要猝死了", "category": "short", "gt_answer": null, "id": "opus_short_00214", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "这两天降温 我嗓子干疼还失眠 是着凉了吗", "category": "short", "gt_answer": null, "id": "opus_short_00215", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "累了一天回家反而睡不着 越躺越清醒 崩溃", "category": "short", "gt_answer": null, "id": "opus_short_00216", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "医生上次开的降压药快吃完了 还没时间复诊 能自己去药店买一样的接着吃不", "category": "short", "gt_answer": null, "id": "opus_short_00217", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "甲状腺的药明天就没了 复诊还要等一周 断几天有事吗", "category": "short", "gt_answer": null, "id": "opus_short_00218", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "抗抑郁的药快吃完了 感觉好多了 是不是可以不吃了", "category": "short", "gt_answer": null, "id": "opus_short_00219", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "我后腰这两天酸得要命,坐也不是站也不是,烦死了怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00220", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "胸口闷闷的,一阵一阵的,有点慌...是不是心脏出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00221", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "右边太阳穴一跳一跳地疼,吵得我睡不着,好难受", "category": "short", "gt_answer": null, "id": "opus_short_00222", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "喉咙像有个东西卡着,咽也咽不下去,快崩溃了", "category": "short", "gt_answer": null, "id": "opus_short_00223", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "换季了鼻子又开始不通气,喷嚏打不停,烦", "category": "short", "gt_answer": null, "id": "opus_short_00224", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠后短问"}}
+{"prompt": "连着加班一周,今天早上起来眼睛发黑差点摔了,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00225", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠后短问"}}
+{"prompt": "最近老失眠,白天头晕晕的没精神,要紧吗", "category": "short", "gt_answer": null, "id": "opus_short_00226", "source": "opus-4-7-generated-short", "meta": {"topic": "换季失眠后短问"}}
+{"prompt": "降温后老咳嗽,嗓子干疼,是不是又要感冒了啊", "category": "short", "gt_answer": null, "id": "opus_short_00227", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠后短问"}}
+{"prompt": "高血压的药(苯磺酸氨氯地平)吃完了,还没去复诊,能先自己买着继续吃吗?", "category": "short", "gt_answer": null, "id": "opus_short_00228", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "甲减的药快没了 医生让三个月去查一次 我拖了半年了 现在直接续药行不行", "category": "short", "gt_answer": null, "id": "opus_short_00229", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "最近换季老是打喷嚏流鼻涕,喉咙也痒,是不是过敏了啊?", "category": "short", "gt_answer": null, "id": "opus_short_00230", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "连着加班一周没睡好,今天头晕站起来眼前发黑,咋办", "category": "short", "gt_answer": null, "id": "opus_short_00231", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后不适"}}
+{"prompt": "失眠快半个月了,躺床上翻来覆去,吃褪黑素有用吗?", "category": "short", "gt_answer": null, "id": "opus_short_00232", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠"}}
+{"prompt": "我妈70了,今早突然说胸口闷,冒冷汗,现在缓过来一点了,要不要立马去医院啊?急死了", "category": "short", "gt_answer": null, "id": "opus_short_00233", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "孩子三岁半,半夜发烧到38度9,喂了退烧药还没退,一直哭闹,现在能不能再喂一次?好慌", "category": "short", "gt_answer": null, "id": "opus_short_00234", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "我爸血压刚才量到170/100,平时就吃着药呢,他还说没事,我该怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00235", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "体检报告尿酸498,医生没说啥,这个高吗?严重不?", "category": "short", "gt_answer": null, "id": "opus_short_00236", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "低密度脂蛋白4.2,其他都正常,要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00237", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "儿子五岁,刚吐了两次,没发烧,精神还行,是吃坏了还是肠胃炎?要不要禁食", "category": "short", "gt_answer": null, "id": "opus_short_00238", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "糖化血红蛋白6.3,这算糖尿病了吗?吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00239", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "体检报告出来了,尿酸510,是不是高了?严重吗要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00240", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我妈70了,刚才突然说头晕站不稳,坐下来好一点,但脸色白白的,要不要马上去医院啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00241", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "嗓子疼两天了 咽口水都疼 但是不发烧 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00242", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "低密度脂蛋白3.8,医生说偏高,我才32岁啊怎么会这样", "category": "short", "gt_answer": null, "id": "opus_short_00243", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子三岁半 半夜突然哭说肚子疼 摸着不烫 是不是着凉了 要不要去急诊现在", "category": "short", "gt_answer": null, "id": "opus_short_00244", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "胃胀好几天了 一吃就顶得慌 打嗝还臭 什么毛病", "category": "short", "gt_answer": null, "id": "opus_short_00245", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "转氨酶ALT 68,平时也不喝酒啊,这个高说明啥", "category": "short", "gt_answer": null, "id": "opus_short_00246", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "老爷子刚才吃饭突然手抖,饭都撒了,人清醒能说话,以前没这样过,好担心是不是中风前兆", "category": "short", "gt_answer": null, "id": "opus_short_00247", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "胳膊上起了一片小红疹 痒得要命 抓破了 涂啥药管用啊", "category": "short", "gt_answer": null, "id": "opus_short_00248", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "血压145/95算高血压吗?才40岁不想吃药", "category": "short", "gt_answer": null, "id": "opus_short_00249", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "大姨妈都推迟十几天了，早孕试纸也没两条杠，急死了", "category": "short", "gt_answer": null, "id": "opus_short_00250", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "这个月月经来了两次正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00251", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "最近脖子后面一直酸，扭头都难受，是不是颈椎废了啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00252", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "胸口闷闷的老想叹气，是不是心脏出问题了？有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00253", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "经量少得可怜，两天就没了，正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00254", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "换季了嗓子干痒老想咳，一躺下更严重，烦", "category": "short", "gt_answer": null, "id": "opus_short_00255", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "连着熬了三天夜，现在心跳得特别快，头也晕，会猝死吗……", "category": "short", "gt_answer": null, "id": "opus_short_00256", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "痛经痛到吐了 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00257", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "右边小腹一阵一阵刺痛，怕是不是阑尾炎啊", "category": "short", "gt_answer": null, "id": "opus_short_00258", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "失眠一个礼拜了 白天困晚上精神 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00259", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "最近换季老是打喷嚏鼻塞,晚上还睡不着,咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00260", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "降压药我自己减一半可以吗 头晕", "category": "short", "gt_answer": null, "id": "opus_short_00261", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "刚吃完头孢喝了口啤酒 会不会死啊救命", "category": "short", "gt_answer": null, "id": "opus_short_00262", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "连着熬夜一周了,今天心慌手抖是不是猝死前兆??", "category": "short", "gt_answer": null, "id": "opus_short_00263", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "二甲双胍 医生让吃一片 我吃两片能瘦快点不", "category": "short", "gt_answer": null, "id": "opus_short_00264", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "吃了两个芒果嘴巴周围全红了 痒 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00265", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "换季了嗓子干痒咳嗽 不发烧 需要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00266", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "褪黑素一粒没用 我加到三粒行不", "category": "short", "gt_answer": null, "id": "opus_short_00267", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "刚才吃了布洛芬现在胃疼的要死 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00268", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "失眠三天了 头疼欲裂 太阳穴突突跳 是不是要出事了", "category": "short", "gt_answer": null, "id": "opus_short_00269", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "哎我这后脑勺一跳一跳的疼,已经两天了,是不是要中风啊好慌", "category": "short", "gt_answer": null, "id": "opus_short_00270", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃了消炎药现在牙又疼了受不了", "category": "short", "gt_answer": null, "id": "opus_short_00271", "source": "opus-4-7-generated-short", "meta": {"topic": "用药咨询"}}
+{"prompt": "体检报告尿酸498,医生让忌口,这个数值算很严重吗?", "category": "short", "gt_answer": null, "id": "opus_short_00272", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "胃里烧得难受,反酸,一躺下就往上涌,烦死了睡不着", "category": "short", "gt_answer": null, "id": "opus_short_00273", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "我妈高血压吃着降压药,今天感冒了想吃点感冒灵(复方氨酚烷胺)冲剂,能一起吃不?", "category": "short", "gt_answer": null, "id": "opus_short_00274", "source": "opus-4-7-generated-short", "meta": {"topic": "用药咨询"}}
+{"prompt": "甘油三酯3.8偏高,总胆固醇正常,需要吃药吗还是控制饮食就行", "category": "short", "gt_answer": null, "id": "opus_short_00275", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "左边肋骨下面隐隐作痛好几天了,不敢深呼吸,是不是肝出问题了啊", "category": "short", "gt_answer": null, "id": "opus_short_00276", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "孩子发烧刚喂了美林,间隔多久能吃阿奇霉素?急死了", "category": "short", "gt_answer": null, "id": "opus_short_00277", "source": "opus-4-7-generated-short", "meta": {"topic": "用药咨询"}}
+{"prompt": "空腹血糖6.3算糖尿病吗?才28岁啊我", "category": "short", "gt_answer": null, "id": "opus_short_00278", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "嗓子干痒老想咳,晚上更严重,咳得胸口都疼了怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00279", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "降压药和感冒药能一起吃吗?我头疼死了刚吃了片(布洛芬),晚上还得吃降压的", "category": "short", "gt_answer": null, "id": "opus_short_00280", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "体检报告尿酸520,高吗?", "category": "short", "gt_answer": null, "id": "opus_short_00281", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我妈刚才突然说胸口闷,喘不上气,坐着不敢动,70多了有高血压,要不要立马叫救护车啊?急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00282", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人"}}
+{"prompt": "吃着阿莫西林还能喝藿香正气水不", "category": "short", "gt_answer": null, "id": "opus_short_00283", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "低密度脂蛋白4.1医生说偏高,严重不", "category": "short", "gt_answer": null, "id": "opus_short_00284", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子发烧39度2,刚吃了退烧药一小时了还没退,现在人蔫蔫的一直睡,叫都不太应,这正常吗?要不要现在去医院?", "category": "short", "gt_answer": null, "id": "opus_short_00285", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人"}}
+{"prompt": "我爷爷刚才在厕所摔了一下,屁股着地的,现在能走但喊腰疼,88了骨质疏松,能自己在家观察吗还是必须拍片子", "category": "short", "gt_answer": null, "id": "opus_short_00286", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人"}}
+{"prompt": "甲状腺球蛋白抗体偏高一点点要紧吗", "category": "short", "gt_answer": null, "id": "opus_short_00287", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "二甲双胍和维生素b族一起吃行吗 早上一起吞的", "category": "short", "gt_answer": null, "id": "opus_short_00288", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "糖化血红蛋白6.3是不是糖尿病了啊", "category": "short", "gt_answer": null, "id": "opus_short_00289", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我这月经都推迟十几天了 又没怀孕 咋回事啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00290", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "降压药能自己减半吗 感觉血压挺正常的了", "category": "short", "gt_answer": null, "id": "opus_short_00291", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "换季了鼻子难受得要死 觉也睡不好 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00292", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "姨妈量少得可怜 就两天没了 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00293", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "二甲双胍我想加一片行不行 血糖降不下来", "category": "short", "gt_answer": null, "id": "opus_short_00294", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "最近加班到猝死边缘 一躺下就清醒 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00295", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "来大姨妈还没完呢 又来了一次 吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00296", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "安眠药能不能少吃点 感觉依赖了", "category": "short", "gt_answer": null, "id": "opus_short_00297", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "降温后老是头疼犯困 是不是身体出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00298", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "甲状腺的药医生说吃一片 我想减到半片可以不", "category": "short", "gt_answer": null, "id": "opus_short_00299", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "布洛芬跟头孢能一起吃吗急", "category": "short", "gt_answer": null, "id": "opus_short_00300", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "嗓子疼一天了 咽口水都疼 没发烧 要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00301", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "降压药明天就吃完了 还没约上号 能自己去药店买一样的先接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00302", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "早上起来一下床天旋地转 蹲了会儿好点了 这是咋回事啊 吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00303", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒药和消炎药能一起吞吗 我懒得分开", "category": "short", "gt_answer": null, "id": "opus_short_00304", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "胳膊上突然冒了一片红疙瘩 有点痒 没吃啥新东西啊", "category": "short", "gt_answer": null, "id": "opus_short_00305", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "甲状腺的药下周就没了 医生让三个月复查 现在还没到 药能停几天等复查吗", "category": "short", "gt_answer": null, "id": "opus_short_00306", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "吃完饭胃老是胀气 打嗝 好几天了 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00307", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "抗抑郁那个药快吃完了 挂不上号 突然停会不会出事啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00308", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "维C跟阿莫西林一起吃行吗?饭后吃?", "category": "short", "gt_answer": null, "id": "opus_short_00309", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "体检说我尿酸偏高一点点,485,严重吗?要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00310", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "这个月大姨妈才来第三天就没了,以前都七天的,咋回事啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00311", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "嗓子疼两天了 吞口水都疼 需要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00312", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "甘油三酯3.8医生让我控制饮食…可我不胖啊为啥会高", "category": "short", "gt_answer": null, "id": "opus_short_00313", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "蹲下来站起来就头晕眼前发黑 是不是低血糖", "category": "short", "gt_answer": null, "id": "opus_short_00314", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "月经推迟十天了,试纸白板,啥情况??", "category": "short", "gt_answer": null, "id": "opus_short_00315", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "胃老是胀气 一吃完就顶得慌 打嗝也不舒服 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00316", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "报告单转氨酶ALT 62 是不是肝坏了 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00317", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "胳膊上突然冒一片小红疹子 有点痒 不疼 是过敏吗", "category": "short", "gt_answer": null, "id": "opus_short_00318", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "经期血块特别多 还有点黑 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00319", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "体检报告出来了 尿酸540 医生说偏高 我才30岁啊 会不会痛风？急死了", "category": "short", "gt_answer": null, "id": "opus_short_00320", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药（络活喜）现在一天一片血压还是150 能加到两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00321", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "一换季就鼻塞流鼻涕 眼睛也痒 每年都这样烦死了 怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00322", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "甲功五项里TSH 6.8 其他正常 严重吗要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00323", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "最近连着加班一周 昨晚就睡了3小时 今天心慌手抖 是不是要猝死了…", "category": "short", "gt_answer": null, "id": "opus_short_00324", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "二甲双胍现在早晚各一片 血糖控制还行 能减成一天一次不 吃了老拉肚子", "category": "short", "gt_answer": null, "id": "opus_short_00325", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "低密度脂蛋白4.2高吗？平时也不胖啊", "category": "short", "gt_answer": null, "id": "opus_short_00326", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药（舍曲林）50mg吃了俩月没感觉 想自己加到100 行吗", "category": "short", "gt_answer": null, "id": "opus_short_00327", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "失眠一个多礼拜了 躺床上翻来覆去 白天头昏脑胀 又不想吃安眠药 咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00328", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "体检说糖化血红蛋白6.3 医生让我控制饮食 是不是糖尿病了？", "category": "short", "gt_answer": null, "id": "opus_short_00329", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "大姨妈都推迟快十天了 也没怀孕 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00330", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "这个月来了两次月经正常吗？？", "category": "short", "gt_answer": null, "id": "opus_short_00331", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "经血黑色的还有血块 吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00332", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "我后腰疼得站不直 难受死了", "category": "short", "gt_answer": null, "id": "opus_short_00333", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "嗓子跟刀割一样 吞口水都疼 烦", "category": "short", "gt_answer": null, "id": "opus_short_00334", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "胸口闷闷的 有点喘不上气 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00335", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "右下腹一阵一阵的疼 是不是阑尾啊 好怕", "category": "short", "gt_answer": null, "id": "opus_short_00336", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "我爸七十多了 刚才突然说头晕眼前发黑 坐下缓了会好点了 血压量出来160 现在人还有点没精神 要不要马上送医院啊？急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00337", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "孩子才两岁 半夜突然发烧39度2 喂了退烧药还没退 手脚有点凉 一直哭闹不睡 我要不要现在抱去急诊啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00338", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我妈今天早上说左边胳膊有点抬不起来 还发麻 嘴角我看着好像有点歪 但她说没事不去医院 这该不会是中风吧 怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00339", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我妈六十八了突然说胸口闷,冒冷汗,人还清醒但脸白得吓人,要不要马上叫救护车啊?", "category": "short", "gt_answer": null, "id": "opus_short_00340", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "孩子三岁半半夜发烧烧到39度2,喂了退烧药还没退,现在一直哭闹,我该怎么办急死了", "category": "short", "gt_answer": null, "id": "opus_short_00341", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "我爸血压高吃着降压药,今天又感冒了想吃点感冒灵,能一起吃吗?会不会冲?", "category": "short", "gt_answer": null, "id": "opus_short_00342", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "头晕死了 一站起来就转", "category": "short", "gt_answer": null, "id": "opus_short_00343", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "奶奶七十多岁刚才在厨房差点摔倒,说腿突然没劲,现在坐着缓过来了,这是不是中风前兆啊好慌", "category": "short", "gt_answer": null, "id": "opus_short_00344", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "布洛芬和头孢能一块吃不?刚吃完消炎的又牙疼", "category": "short", "gt_answer": null, "id": "opus_short_00345", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "肚子疼一整天了 拉了三次 烦", "category": "short", "gt_answer": null, "id": "opus_short_00346", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "小孩五岁吃了虾脸上起了一片红疙瘩,还在挠,没喘不上气,要不要去医院还是吃点药观察?", "category": "short", "gt_answer": null, "id": "opus_short_00347", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "维生素跟甲状腺的药(优甲乐)能同时吃吗 每天早上都一起吞的", "category": "short", "gt_answer": null, "id": "opus_short_00348", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "后背一阵一阵刺痛 吓人", "category": "short", "gt_answer": null, "id": "opus_short_00349", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "我这两天右边肋骨下面隐隐作痛,不是很剧烈但一直都在,是不是肝出问题了啊好慌", "category": "short", "gt_answer": null, "id": "opus_short_00350", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "体检报告尿酸520,医生也没说啥就让我少吃海鲜,这个高得离谱吗？要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00351", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "嗓子疼两天了咽口水都疼,不发烧,要不要吃消炎药啊", "category": "short", "gt_answer": null, "id": "opus_short_00352", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "低压95高压140,我才35岁啊！这算高血压了吗天天熬夜是不是要完", "category": "short", "gt_answer": null, "id": "opus_short_00353", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "蹲下再站起来就眼前一黑头晕,缓一会儿又好了,这是贫血还是低血糖？", "category": "short", "gt_answer": null, "id": "opus_short_00354", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "后脖子这里一按就疼,转头咔咔响,是不是颈椎废了…天天对着电脑", "category": "short", "gt_answer": null, "id": "opus_short_00355", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "胃老是胀气打嗝,吃一点就饱,难受得要命,这什么毛病啊", "category": "short", "gt_answer": null, "id": "opus_short_00356", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "甲功报告TSH 6.8 医生说偏高让我三个月复查,不用管吗？我妈甲减的", "category": "short", "gt_answer": null, "id": "opus_short_00357", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩痒得要死,没吃啥怪东西啊,过敏了？", "category": "short", "gt_answer": null, "id": "opus_short_00358", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "小肚子左下方一阵一阵抽着疼,姨妈刚走没几天,不会是什么大病吧好怕", "category": "short", "gt_answer": null, "id": "opus_short_00359", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "最近换季了嗓子干痒老想咳,晚上还睡不好,咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00360", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "熬了三天大夜今天头晕眼花的,是不是要猝死了……", "category": "short", "gt_answer": null, "id": "opus_short_00361", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "失眠一礼拜了,白天困死晚上又睡不着,咋办急", "category": "short", "gt_answer": null, "id": "opus_short_00362", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "我妈七十了刚才突然说胸口闷,脸色发白,冒冷汗,要不要马上打120啊,我一个人在家慌得不行", "category": "short", "gt_answer": null, "id": "opus_short_00363", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "娃三岁半半夜烧到39.2,喂了退烧药还没退,一直哼哼,要不要现在就抱去医院?外面下大雨啊愁死我了", "category": "short", "gt_answer": null, "id": "opus_short_00364", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我爸血压今天量到170,他说头有点疼不想去医院,硬扛着,咋劝啊,我在外地急死了", "category": "short", "gt_answer": null, "id": "opus_short_00365", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "孩子刚吐了两次,拉肚子稀水样,精神还行但一直喊肚子疼,一岁半,该给吃点啥吗急", "category": "short", "gt_answer": null, "id": "opus_short_00366", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "降压药(氨氯地平)吃了血压还高,能自己加一片吗", "category": "short", "gt_answer": null, "id": "opus_short_00367", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "安眠药医生开的半片,我睡不着能吃一整片不", "category": "short", "gt_answer": null, "id": "opus_short_00368", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "二甲双胍现在一天三次,血糖降下来了能减成两次吗?", "category": "short", "gt_answer": null, "id": "opus_short_00369", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我这右边肋骨下面隐隐约约疼两天了,不敢深呼吸,是不是肝出问题了啊愁死我了", "category": "short", "gt_answer": null, "id": "opus_short_00370", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "体检报告出来了 尿酸520 医生说偏高 我才30岁啊 会不会痛风?要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00371", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "最近一换季就狂打喷嚏鼻子痒得要命 眼睛也痒 是不是过敏了啊", "category": "short", "gt_answer": null, "id": "opus_short_00372", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "后脑勺一跳一跳的疼 躺下也疼 已经三天了 是不是脑子里长东西了……好怕", "category": "short", "gt_answer": null, "id": "opus_short_00373", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "甘油三酯3.8 高吗?医生就说注意饮食 也没说到底怎么办 急", "category": "short", "gt_answer": null, "id": "opus_short_00374", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "连续加班一周 现在浑身酸软 心慌 睡不着 是不是猝死前兆??", "category": "short", "gt_answer": null, "id": "opus_short_00375", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累不适"}}
+{"prompt": "胃里烧得慌,反酸,晚上睡觉都能酸醒,吃了奥美拉唑没啥用", "category": "short", "gt_answer": null, "id": "opus_short_00376", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "血压高压145 低压95 我才35 需要吃降压药吗 不想一辈子吃药", "category": "short", "gt_answer": null, "id": "opus_short_00377", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "失眠一个多礼拜了 每天两三点才睡着 白天头都是懵的 咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00378", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠不适"}}
+{"prompt": "嗓子干痒老想咳 换季就这样 一咳咳半个月 烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00379", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "大姨妈都推迟十天了 没同房 慌得一批 会不会出啥问题啊", "category": "short", "gt_answer": null, "id": "opus_short_00380", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "嗓子疼得咽口水都费劲,不发烧,是不是要上火了?吃点啥能好", "category": "short", "gt_answer": null, "id": "opus_short_00381", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "布洛芬和头孢能一起吃吗 急", "category": "short", "gt_answer": null, "id": "opus_short_00382", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "这个月来了两次月经正常吗?第一次刚完没几天又来了 量还挺多", "category": "short", "gt_answer": null, "id": "opus_short_00383", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "早上起来蹲下站起来就头晕眼前发黑 好几次了 是不是低血糖", "category": "short", "gt_answer": null, "id": "opus_short_00384", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胃胀气 一直打嗝放屁 难受死了 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00385", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒药吃完能马上喝阿莫西林么?间隔多久合适", "category": "short", "gt_answer": null, "id": "opus_short_00386", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "胳膊上突然起一片红疹子 有点痒 没换洗衣液啊 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00387", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "痛经痛到吐 每次都这样 正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00388", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "降压药和感冒冲剂能一块吃不 家里老人问的 在线等", "category": "short", "gt_answer": null, "id": "opus_short_00389", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "降压药明天就吃完了 还没去医院复诊 要不要先自己去药店买一盒接着吃啊", "category": "short", "gt_answer": null, "id": "opus_short_00390", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "换季了嗓子又开始痒 一到晚上就咳 是不是又要犯鼻炎了烦死", "category": "short", "gt_answer": null, "id": "opus_short_00391", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "我刚吃了一只虾 手臂上冒了几个小红点 有点痒 要紧吗急", "category": "short", "gt_answer": null, "id": "opus_short_00392", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲状腺的药下周就没了 医生让三个月复查 我还没约上号 能先接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00393", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "连熬三天夜 现在头晕眼花心跳快 是不是要猝死了……", "category": "short", "gt_answer": null, "id": "opus_short_00394", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "刚吞了两片布洛芬 胃开始烧 是不是伤胃了 要喝点牛奶吗", "category": "short", "gt_answer": null, "id": "opus_short_00395", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "抗抑郁药快吃完了 复诊要等半个月 断了会不会出事啊 好怕", "category": "short", "gt_answer": null, "id": "opus_short_00396", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "最近一躺床上就清醒到三四点 白天累得要死 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00397", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "吃了芒果嘴唇肿了一圈 现在还在肿 需要去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00398", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降糖的二甲双胍今天吃完最后一粒 医院还没去 停一两天有事吗", "category": "short", "gt_answer": null, "id": "opus_short_00399", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "换季就开始鼻塞流鼻涕,嗓子也痒,烦死了这几年年年这样啥毛病啊", "category": "short", "gt_answer": null, "id": "opus_short_00400", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "这个月大姨妈推迟十几天了 没同房 会是啥原因", "category": "short", "gt_answer": null, "id": "opus_short_00401", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "熬夜加班一周,现在整个人晕乎乎的,心慌", "category": "short", "gt_answer": null, "id": "opus_short_00402", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后不适"}}
+{"prompt": "右边肋骨下面隐隐约约疼 有点害怕 是不是肝出问题了啊", "category": "short", "gt_answer": null, "id": "opus_short_00403", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "失眠好几天了 躺床上翻来覆去 白天困得要死晚上又睡不着 崩溃", "category": "short", "gt_answer": null, "id": "opus_short_00404", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠"}}
+{"prompt": "月经量突然变得特别少 就两天没了 正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00405", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "后脑勺一跳一跳的疼 好几天了 是不是血压高啊 我才26岁", "category": "short", "gt_answer": null, "id": "opus_short_00406", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "这次月经黑乎乎的还有血块 肚子疼死了 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00407", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "最近一累就腰酸 站一会儿就不行 是不是肾虚啊愁死", "category": "short", "gt_answer": null, "id": "opus_short_00408", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后不适"}}
+{"prompt": "胃老是胀 吃一点点就顶得难受 打嗝还有味 好烦", "category": "short", "gt_answer": null, "id": "opus_short_00409", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "大姨妈都推迟十几天了 也没怀孕 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00410", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "这个月月经来了两次 量还挺多 正常吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00411", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "嗓子疼得咽口水都费劲 但是不发烧 要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00412", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "一站起来就头晕眼前发黑 坐会儿又好了 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00413", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胃老胀气 一吃东西就顶得慌 打嗝也打不出来 烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00414", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胳膊上突然起了一片红疙瘩 特别痒 抓完更多了怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00415", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "体检报告尿酸520 医生说偏高 要吃药吗 平时该注意啥", "category": "short", "gt_answer": null, "id": "opus_short_00416", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "甲功查出来促甲状腺激素8.6 高了 严重吗？需要复查不", "category": "short", "gt_answer": null, "id": "opus_short_00417", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "月经量越来越少 就两天没了 我才三十多岁 是不是要绝经了啊", "category": "short", "gt_answer": null, "id": "opus_short_00418", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "低密度脂蛋白4.2 医生让控制饮食 到底能不能吃鸡蛋啊", "category": "short", "gt_answer": null, "id": "opus_short_00419", "source": "opus-4-7-generated-short", "meta": {"topic": "查体指标偏高"}}
+{"prompt": "头疼一整天了 一阵一阵的抽 烦死了 是不是要中风啊", "category": "short", "gt_answer": null, "id": "opus_short_00420", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "后背突然一下疼得直不起来 吓死我了 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00421", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "体检报告出来了 尿酸520 医生说偏高 我才三十多啊 严重吗要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00422", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "低压100高压150 是不是高血压了 需要马上吃药么", "category": "short", "gt_answer": null, "id": "opus_short_00423", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "我妈七十多了 刚才突然说胸口闷 冒冷汗 脸都白了 现在躺床上 要不要叫救护车啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00424", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "宝宝一岁半 半夜发烧烧到39度2 喂了退烧药还没退 一直哭 手脚有点凉 怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00425", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "嗓子疼得咽口水都费劲 一说话就疼 感觉里面肿了", "category": "short", "gt_answer": null, "id": "opus_short_00426", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "肝功能里谷丙转氨酶78 参考值上限40 这个高很多吗 是不是肝出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00427", "source": "opus-4-7-generated-short", "meta": {"topic": "指标偏高"}}
+{"prompt": "肚子右下边一直隐隐作痛 按下去更疼 会不会是阑尾炎啊 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00428", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "爷爷八十岁 刚才在客厅摔了一下 头磕到桌角 现在人清醒但一直说头晕想吐 要不要立刻去医院 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00429", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "换季了嗓子干痒老想咳,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00430", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "我妈76了,今早说头晕想吐,血压量了148/90,平时也就130多。她自己不肯去医院,说躺躺就好。要不要叫救护车啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00431", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "降压药(苯磺酸氨氯地平)吃完了,复诊还没约上,能先接着买同款吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00432", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "连着熬夜三天 心慌手抖 正常不", "category": "short", "gt_answer": null, "id": "opus_short_00433", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "孩子两岁半,半夜突然发烧38.9,脸通红但精神还行,喂了美林(布洛芬)半小时了还没退,要不要现在跑急诊?我一个人在家慌得不行", "category": "short", "gt_answer": null, "id": "opus_short_00434", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "失眠一周了 白天头蒙 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00435", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "抑郁症的药(舍曲林)明天就没了,医生下周才有号,停一周行不行啊", "category": "short", "gt_answer": null, "id": "opus_short_00436", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "我爸68岁做过支架,今天吃完饭突然说胸口闷了一下,几分钟自己好了。他非说没事不让我管,可我心里发毛,这种情况到底要不要拖他去医院查一下?", "category": "short", "gt_answer": null, "id": "opus_short_00437", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 复查报告还没出 要不要断一天", "category": "short", "gt_answer": null, "id": "opus_short_00438", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "最近一变天鼻子就堵 打喷嚏不停 是过敏吗还是感冒", "category": "short", "gt_answer": null, "id": "opus_short_00439", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "降压药明天就吃完了,还没约上复诊,能先自己去药店买一盒接着吃吗?", "category": "short", "gt_answer": null, "id": "opus_short_00440", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "孩子发烧38度5,刚吃了布洛芬,又咳得厉害,能再加个止咳糖浆一起喝吗?急", "category": "short", "gt_answer": null, "id": "opus_short_00441", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我妈七十多了突然头晕站不稳,刚才还吐了一次,人还清醒。要不要马上送医院?还是先躺着看看?我一个人在家好慌", "category": "short", "gt_answer": null, "id": "opus_short_00442", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抗抑郁药快没了 医生下周才有号 能停几天吗", "category": "short", "gt_answer": null, "id": "opus_short_00443", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "感冒药和消炎药一起吃行不行?饭后半小时都吞了会不会打架", "category": "short", "gt_answer": null, "id": "opus_short_00444", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "宝宝才八个月,晚上突然拉了三次稀,屁股都红了,现在有点蔫蔫的不怎么哭,要紧吗?现在半夜医院也远", "category": "short", "gt_answer": null, "id": "opus_short_00445", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了还没复查,能不能先按原剂量继续?", "category": "short", "gt_answer": null, "id": "opus_short_00446", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "头孢刚吃完能马上吃止痛片吗?牙疼死了忍不住", "category": "short", "gt_answer": null, "id": "opus_short_00447", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸七十八,吃完饭突然说左边手有点麻,人能说话能走,就是使不上劲。这是不是中风前兆啊?要不要立刻打120", "category": "short", "gt_answer": null, "id": "opus_short_00448", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "娃三岁多,刚才在沙发上摔下来磕到后脑,现在没哭也没吐,就是一直想睡觉,能让他睡吗还是必须叫醒?", "category": "short", "gt_answer": null, "id": "opus_short_00449", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "刚吃完海鲜浑身痒痒的 是过敏吗 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00450", "source": "opus-4-7-generated-short", "meta": {"topic": "食物过敏反应"}}
+{"prompt": "吃了颗布洛芬胃里烧的难受 咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00451", "source": "opus-4-7-generated-short", "meta": {"topic": "药物不良反应"}}
+{"prompt": "后脑勺一抽一抽的疼 从早上到现在了 烦死", "category": "short", "gt_answer": null, "id": "opus_short_00452", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适描述"}}
+{"prompt": "换季了鼻子又开始造反 天天打喷嚏眼泪汪汪 有啥办法没", "category": "short", "gt_answer": null, "id": "opus_short_00453", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "连着熬了三天夜 现在心慌手抖 是不是要猝死了啊……", "category": "short", "gt_answer": null, "id": "opus_short_00454", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后不适"}}
+{"prompt": "胃这块儿闷闷的 说不上来那种感觉 有点想吐又吐不出来", "category": "short", "gt_answer": null, "id": "opus_short_00455", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适描述"}}
+{"prompt": "刚吃完芒果嘴唇肿了 严重吗", "category": "short", "gt_answer": null, "id": "opus_short_00456", "source": "opus-4-7-generated-short", "meta": {"topic": "食物过敏反应"}}
+{"prompt": "失眠一礼拜了 头都是懵的 白天困晚上睁眼到天亮 崩溃", "category": "short", "gt_answer": null, "id": "opus_short_00457", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠后不适"}}
+{"prompt": "腰酸的直不起来 坐一天电脑前的 是不是要废了", "category": "short", "gt_answer": null, "id": "opus_short_00458", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适描述"}}
+{"prompt": "喝了感冒药犯困的厉害 还能开车不", "category": "short", "gt_answer": null, "id": "opus_short_00459", "source": "opus-4-7-generated-short", "meta": {"topic": "药物反应"}}
+{"prompt": "降压药一天一片血压还是高,能加到两片吗?急", "category": "short", "gt_answer": null, "id": "opus_short_00460", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "刚吃完头孢喝了两口啤酒…现在心慌 会死吗", "category": "short", "gt_answer": null, "id": "opus_short_00461", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "复诊药明天就没了 医院挂不上号 能先自己去药店买同款继续吃不", "category": "short", "gt_answer": null, "id": "opus_short_00462", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "二甲双胍我自己减半行不行?吃了老拉肚子受不了", "category": "short", "gt_answer": null, "id": "opus_short_00463", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "刚喝完中药胃里烧的慌 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00464", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "抑郁药吃完了 医生说要复诊 但我最近状态还行 能停吗", "category": "short", "gt_answer": null, "id": "opus_short_00465", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "孩子退烧药才吃两小时又烧起来了 能再喂一次吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00466", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "吃了布洛芬没多久脸肿了一块 是不是过敏啊", "category": "short", "gt_answer": null, "id": "opus_short_00467", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "甲状腺药下周吃完 复诊还没约上 直接停会怎样", "category": "short", "gt_answer": null, "id": "opus_short_00468", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "刚吃完海鲜又吃了消炎药 现在浑身痒 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00469", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢头又疼死了", "category": "short", "gt_answer": null, "id": "opus_short_00470", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "体检报告尿酸480,医生没说啥,严重吗急", "category": "short", "gt_answer": null, "id": "opus_short_00471", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃了两颗荔枝就心慌手抖 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00472", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降压药和感冒药一起吃会不会出事?我妈刚都吞了", "category": "short", "gt_answer": null, "id": "opus_short_00473", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "甘油三酯2.8高吗 报告写着偏高箭头", "category": "short", "gt_answer": null, "id": "opus_short_00474", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "喝了藿香正气水脸红发烫 是过敏吗?", "category": "short", "gt_answer": null, "id": "opus_short_00475", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "阿莫西林能和益生菌同时吃么 间隔多久", "category": "short", "gt_answer": null, "id": "opus_short_00476", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "转氨酶ALT 65,平时不喝酒啊怎么会高", "category": "short", "gt_answer": null, "id": "opus_short_00477", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃了芒果嘴唇肿了 麻麻的 要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00478", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "血糖空腹6.4算高吗 家里有糖尿病史 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00479", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "二甲双胍我吃着血糖降太多了 能自己减一片吗", "category": "short", "gt_answer": null, "id": "opus_short_00480", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "医生开的降压药我感觉不太够 我自己加半片行不行啊", "category": "short", "gt_answer": null, "id": "opus_short_00481", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "我这月姨妈都推迟十几天了 也没怀孕 咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00482", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "例假一个月来两次正常吗？？有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00483", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "体检报告尿酸510 医生说偏高 严重不？需要吃药么", "category": "short", "gt_answer": null, "id": "opus_short_00484", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁的药漏吃一次 下次能吃双倍补上不", "category": "short", "gt_answer": null, "id": "opus_short_00485", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "大姨妈这次量特别少 就两天没了 会不会绝经啊 我才38", "category": "short", "gt_answer": null, "id": "opus_short_00486", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "甲功查出来TSH6.8 医生说高 我该咋办 网上说是甲减？", "category": "short", "gt_answer": null, "id": "opus_short_00487", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "低密度脂蛋白4.2 高不高啊 需要吃他汀吗", "category": "short", "gt_answer": null, "id": "opus_short_00488", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "痛经吃布洛芬一片没用 能再加一片么", "category": "short", "gt_answer": null, "id": "opus_short_00489", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "降压药一天一片不够 能加成两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00490", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "大姨妈都推迟半个月了 没怀孕 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00491", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚吃完头孢 喝了口啤酒 会不会出事啊?!", "category": "short", "gt_answer": null, "id": "opus_short_00492", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "二甲双胍能自己减半吗 吃着胃难受", "category": "short", "gt_answer": null, "id": "opus_short_00493", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "这个月来了两次月经 量还挺多 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00494", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚吃了个芒果嘴巴又麻又痒 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00495", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "孩子发烧 布洛芬吃了没退 能再加一次吗", "category": "short", "gt_answer": null, "id": "opus_short_00496", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "月经就来了两天没了 而且颜色黑黑的 吓死", "category": "short", "gt_answer": null, "id": "opus_short_00497", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚吃完感冒药就困得不行 是不是过量了", "category": "short", "gt_answer": null, "id": "opus_short_00498", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "安眠药半片睡不着 我加成一片行不", "category": "short", "gt_answer": null, "id": "opus_short_00499", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "最近老失眠 白天头昏沉沉 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00500", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠后短问"}}
+{"prompt": "嗓子疼两天了 咽口水都疼 是不是发炎了啊", "category": "short", "gt_answer": null, "id": "opus_short_00501", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "换季了一直打喷嚏流鼻涕 眼睛还痒 过敏?", "category": "short", "gt_answer": null, "id": "opus_short_00502", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "我妈68了 刚才突然说心慌 手也有点抖 现在坐着缓 要不要去医院啊急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00503", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "胃胀 一整天没放屁 难受死了", "category": "short", "gt_answer": null, "id": "opus_short_00504", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "娃三岁半 半夜烧到38.5 精神还行 要不要喂退烧药 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00505", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩发烧"}}
+{"prompt": "蹲久了站起来一阵黑 眼前发花 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00506", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "加班一周 今早起来胳膊上一片红疹子 不痒 吓我一跳", "category": "short", "gt_answer": null, "id": "opus_short_00507", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "连续熬夜三天 现在心跳好快 躺着都能感觉到 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00508", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后短问"}}
+{"prompt": "我爸70了 今天说走路腿发软 没摔 但一直没劲 要紧不 需要马上去看吗", "category": "short", "gt_answer": null, "id": "opus_short_00509", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "哎我头晕好几天了 一站起来眼前发黑 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00510", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼得咽口水都费劲…是不是发炎了", "category": "short", "gt_answer": null, "id": "opus_short_00511", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "刚吃完小龙虾 胳膊上起了一片红疙瘩 痒死了 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00512", "source": "opus-4-7-generated-short", "meta": {"topic": "食物过敏"}}
+{"prompt": "胃胀 一整天没放屁 难受", "category": "short", "gt_answer": null, "id": "opus_short_00513", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "我后腰右边一阵一阵抽着疼 弯腰都不敢弯 会不会是肾出问题了啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00514", "source": "opus-4-7-generated-short", "meta": {"topic": "腰痛"}}
+{"prompt": "刚吃了布洛芬 心跳好快 正常吗？？", "category": "short", "gt_answer": null, "id": "opus_short_00515", "source": "opus-4-7-generated-short", "meta": {"topic": "药物反应"}}
+{"prompt": "脖子后面长了一片小红疹 不痛不痒 但看着好吓人", "category": "short", "gt_answer": null, "id": "opus_short_00516", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "太阳穴突突跳 头疼 是不是要中风了 别吓我", "category": "short", "gt_answer": null, "id": "opus_short_00517", "source": "opus-4-7-generated-short", "meta": {"topic": "头痛"}}
+{"prompt": "吃完头孢喝了口啤酒 现在脸红发烫 会不会死啊救命", "category": "short", "gt_answer": null, "id": "opus_short_00518", "source": "opus-4-7-generated-short", "meta": {"topic": "药物反应"}}
+{"prompt": "左边肚子隐隐作痛好几天了 也不严重 就是烦", "category": "short", "gt_answer": null, "id": "opus_short_00519", "source": "opus-4-7-generated-short", "meta": {"topic": "腹痛"}}
+{"prompt": "血压药吃完了要不要继续开?", "category": "short", "gt_answer": null, "id": "opus_short_00520", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "甲功报告促甲状腺激素5.8偏高一点点,严重吗?", "category": "short", "gt_answer": null, "id": "opus_short_00521", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我妈78了突然说胸口闷,冒冷汗,现在人躺床上不肯去医院,怎么办啊急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00522", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抗抑郁药停了会反弹吗 医生说三个月复诊 但我感觉挺好的", "category": "short", "gt_answer": null, "id": "opus_short_00523", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "体检单尿酸487,是不是痛风前兆?", "category": "short", "gt_answer": null, "id": "opus_short_00524", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子才两岁半发烧39.2了 吃了美林还烫 手脚冰凉 会不会烧坏脑子啊", "category": "short", "gt_answer": null, "id": "opus_short_00525", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "降糖药还剩三天,复诊排不上号,能自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00526", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "低密度脂蛋白3.9高不高?", "category": "short", "gt_answer": null, "id": "opus_short_00527", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我爸刚才吃饭突然一边胳膊没劲儿 筷子都掉了 说话也不清楚 缓过来一点了 要不要叫救护车啊", "category": "short", "gt_answer": null, "id": "opus_short_00528", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "糖化血红蛋白6.5,医生说临界,要吃药吗?", "category": "short", "gt_answer": null, "id": "opus_short_00529", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃完头孢喝了口啤酒 完蛋不 心跳好快啊救命", "category": "short", "gt_answer": null, "id": "opus_short_00530", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "月经推迟十天了 测了没怀孕 咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00531", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "后腰这两天疼得直不起来 是不是肾出问题了 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00532", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "刚吃了两个芒果 嘴巴周围全红了还痒 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00533", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "这个月来了两次 第二次量还挺多 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00534", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "右边肚子一抽一抽的疼 不敢动 是阑尾炎吗？？", "category": "short", "gt_answer": null, "id": "opus_short_00535", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "吃了布洛芬半小时 胃烧得难受想吐 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00536", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "姨妈都推迟快一个月了 我最近压力也不大啊 怎么回事", "category": "short", "gt_answer": null, "id": "opus_short_00537", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "嗓子疼得咽口水都费劲 一说话就火辣辣 快难受死了", "category": "short", "gt_answer": null, "id": "opus_short_00538", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "这次月经就来了两天就没了 颜色还发黑 吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00539", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "降压药吃完了还要继续开吗？", "category": "short", "gt_answer": null, "id": "opus_short_00540", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我妈78了刚才突然说胸口闷，脸色也不太好，手脚有点凉，要不要马上叫救护车啊？急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00541", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "感冒灵和头孢能一块儿吃不", "category": "short", "gt_answer": null, "id": "opus_short_00542", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "孩子三岁多半夜发烧到39.2，喂了退烧药还没退，抖得厉害，怎么办啊在线等", "category": "short", "gt_answer": null, "id": "opus_short_00543", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抗抑郁的药快没了 复诊来不及 能先自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00544", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "布洛芬跟阿莫西林可以一起吞吗？急", "category": "short", "gt_answer": null, "id": "opus_short_00545", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸糖尿病的药明天就吃完了，最近血糖挺稳的，还需要再去挂号吗？", "category": "short", "gt_answer": null, "id": "opus_short_00546", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "娃刚摔了一下后脑勺，现在一直哭，摸着有个小包，没吐但是我好慌，要去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00547", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "甲状腺的药吃完了要不要接着吃", "category": "short", "gt_answer": null, "id": "opus_short_00548", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "钙片和铁剂能同时吃么…", "category": "short", "gt_answer": null, "id": "opus_short_00549", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "完了完了,后脑勺一阵一阵晕,站起来就想吐,是不是脑子出问题了啊?", "category": "short", "gt_answer": null, "id": "opus_short_00550", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼得咽口水都费劲,像刀割一样,昨晚吹空调了,要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00551", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "胃胀得跟个气球似的,一直打嗝放屁,饭都吃不下,好难受", "category": "short", "gt_answer": null, "id": "opus_short_00552", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "胳膊上突然冒出一片红疙瘩,痒死了越挠越多,是过敏吗？", "category": "short", "gt_answer": null, "id": "opus_short_00553", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "医生我上次开的降压药(氨氯地平)明天就吃完了,还没约上号,要不要先接着买？", "category": "short", "gt_answer": null, "id": "opus_short_00554", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊续药"}}
+{"prompt": "腰这里,右边,一弯就疼,坐久了更酸,烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00555", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "心口老是闷闷的,吸不上气,是不是心脏有事啊我好慌", "category": "short", "gt_answer": null, "id": "opus_short_00556", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "脚底板走路踩着疼,早上下床第一步最要命,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00557", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "抗抑郁的药吃完了 复诊还得等两周 能自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00558", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊续药"}}
+{"prompt": "眼皮跳三天了,右边,跳得我都烦躁了,不会是啥毛病吧", "category": "short", "gt_answer": null, "id": "opus_short_00559", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "布洛芬和头孢能一起吃吗?头疼死了嗓子还发炎,急", "category": "short", "gt_answer": null, "id": "opus_short_00560", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "胸口闷闷的好几天了,有时候还刺一下,是不是心脏出问题了啊我好慌", "category": "short", "gt_answer": null, "id": "opus_short_00561", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "体检报告出来低密度脂蛋白3.8,医生说偏高,严重吗需要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00562", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药(氨氯地平)能跟感冒药一起吃么在线等", "category": "short", "gt_answer": null, "id": "opus_short_00563", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "后脑勺一跳一跳的疼,眼睛也胀,烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00564", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "尿酸498算高吗?才30岁啊,以后是不是要痛风了好怕", "category": "short", "gt_answer": null, "id": "opus_short_00565", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我在吃优甲乐,现在又开了钙片,间隔多久吃啊", "category": "short", "gt_answer": null, "id": "opus_short_00566", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "右下腹隐隐作痛一整天了…不会是阑尾炎吧😭", "category": "short", "gt_answer": null, "id": "opus_short_00567", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "转氨酶谷丙78,是不是肝坏了?我又没喝酒啊", "category": "short", "gt_answer": null, "id": "opus_short_00568", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "腰酸得直不起来,坐一会站一会都难受,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00569", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "降压药能不能自己减半啊 血压最近有点低", "category": "short", "gt_answer": null, "id": "opus_short_00570", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "最近换季鼻子痒得要死 一直打喷嚏 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00571", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "感冒药和头孢能一起吃吗?我发烧还嗓子发炎 急", "category": "short", "gt_answer": null, "id": "opus_short_00572", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50字快速咨询"}}
+{"prompt": "二甲双胍我想加一片行不行 血糖降不下来烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00573", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "连着加班一周了 现在整个人晕的 站起来都黑一下", "category": "short", "gt_answer": null, "id": "opus_short_00574", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "布洛芬和阿莫西林一起吃可以不 牙疼到炸", "category": "short", "gt_answer": null, "id": "opus_short_00575", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50字快速咨询"}}
+{"prompt": "安眠药医生开的0.5 我睡不着能吃1片吗", "category": "short", "gt_answer": null, "id": "opus_short_00576", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "失眠三天了 一闭眼就醒 真的要疯", "category": "short", "gt_answer": null, "id": "opus_short_00577", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "降压药和感冒冲剂能同服么 我今天鼻塞得厉害", "category": "short", "gt_answer": null, "id": "opus_short_00578", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50字快速咨询"}}
+{"prompt": "甲状腺的药能自己加量吗 指标还是高", "category": "short", "gt_answer": null, "id": "opus_short_00579", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "体检报告出来了,同型半胱氨酸17.8,医生说偏高,严重吗?我才32岁啊", "category": "short", "gt_answer": null, "id": "opus_short_00580", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃了两个芒果嘴巴周围开始痒痒的还有点红,怎么办急", "category": "short", "gt_answer": null, "id": "opus_short_00581", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降压药(氨氯地平)明天就吃完了,复诊还没约上,能自己去药店再买一盒吗", "category": "short", "gt_answer": null, "id": "opus_short_00582", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "尿酸498…是不是痛风前兆啊,平时也没怎么吃海鲜", "category": "short", "gt_answer": null, "id": "opus_short_00583", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "头孢刚吃下去半小时,现在脸有点发烫,是过敏吗??我没喝酒啊", "category": "short", "gt_answer": null, "id": "opus_short_00584", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲状腺球蛋白抗体高到300多 医生让复查 这啥意思 会得癌吗", "category": "short", "gt_answer": null, "id": "opus_short_00585", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药舍曲林吃完了,下周才能挂上号,断几天会不会反弹", "category": "short", "gt_answer": null, "id": "opus_short_00586", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "低密度脂蛋白4.2 高吗 我一直以为自己挺瘦的诶", "category": "short", "gt_answer": null, "id": "opus_short_00587", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "晚饭吃了小龙虾现在肚子咕咕叫还想吐 是不是不新鲜啊 要去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00588", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "我妈的二甲双胍就剩三天了,复诊得下周,先接着吃老方子行不", "category": "short", "gt_answer": null, "id": "opus_short_00589", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药我自己减了一半 血压还挺稳 能一直这么吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00590", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "嗓子疼两天了 咽口水都疼 没发烧 用不用吃消炎药啊", "category": "short", "gt_answer": null, "id": "opus_short_00591", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状口语问"}}
+{"prompt": "上次开的药明天就吃完了 医生让复诊 但我实在没空 能先接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00592", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "蹲下站起来眼前发黑 一阵头晕 是不是低血糖啊 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00593", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状口语问"}}
+{"prompt": "二甲双胍能加一片吗 血糖还是高", "category": "short", "gt_answer": null, "id": "opus_short_00594", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "胳膊上起了一片小红疹子 有点痒 不疼 需不需要看医生啊", "category": "short", "gt_answer": null, "id": "opus_short_00595", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状口语问"}}
+{"prompt": "甲状腺的药吃完了 复查还没约上 能不能先自己去药店买着吃?", "category": "short", "gt_answer": null, "id": "opus_short_00596", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "胃老是胀气 打嗝 一吃点东西就顶着难受 咋回事儿啊", "category": "short", "gt_answer": null, "id": "opus_short_00597", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状口语问"}}
+{"prompt": "抗抑郁药觉得没效果 我想自己加量行不行", "category": "short", "gt_answer": null, "id": "opus_short_00598", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "降糖药明天没了 下周才能挂上号 中间断几天要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00599", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药明天就吃完了 医院还没约上号 能自己先买着继续吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00600", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "二甲双胍我一天吃两片血糖还是高 能加到三片吗", "category": "short", "gt_answer": null, "id": "opus_short_00601", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "刚喝完头孢想起来晚上聚餐喝了两杯啤酒 现在脸发烫心慌 咋办啊急", "category": "short", "gt_answer": null, "id": "opus_short_00602", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "抗抑郁的药吃完了 复诊还有一周 停几天要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00603", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "医生开的安眠药半片根本没用 我能吃一整片吗", "category": "short", "gt_answer": null, "id": "opus_short_00604", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "吃了布洛芬十分钟胃开始绞痛 是不是过敏了", "category": "short", "gt_answer": null, "id": "opus_short_00605", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲状腺的药就剩三天了 医院预约排到下个月 停了会怎样", "category": "short", "gt_answer": null, "id": "opus_short_00606", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "血压最近降太低了头晕 药能减半吗还是干脆停一天", "category": "short", "gt_answer": null, "id": "opus_short_00607", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "刚吃了芒果嘴唇肿了 之前从没这样过 用不用去医院", "category": "short", "gt_answer": null, "id": "opus_short_00608", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "复诊那天有事去不了 慢病的药还能不能接着按原来吃", "category": "short", "gt_answer": null, "id": "opus_short_00609", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药能自己减一半吗？最近血压不高了", "category": "short", "gt_answer": null, "id": "opus_short_00610", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "体检报告尿酸480，是不是很高啊？平时也没觉得哪不舒服", "category": "short", "gt_answer": null, "id": "opus_short_00611", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子才两岁多，突然半夜发烧烧到39度2，喂了退烧药还是不下来，我现在要不要送急诊啊？急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00612", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "二甲双胍能不能加量？吃一片血糖还是11点多", "category": "short", "gt_answer": null, "id": "opus_short_00613", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "转氨酶65偏高，肝有问题吗？平时不喝酒的", "category": "short", "gt_answer": null, "id": "opus_short_00614", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我妈70多了突然说胸口闷，坐着喘不上气，脸有点白，是不是心脏出事了？家里就我一个人怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00615", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "阿司匹林医生让吃一片，我能减到半片吗", "category": "short", "gt_answer": null, "id": "opus_short_00616", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "低密度脂蛋白3.8，医生说偏高，要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00617", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "宝宝六个月，刚打完疫苗回来就一直哭，摸着有点烫，腿也肿了一块，正常吗？第一次当妈心里没底", "category": "short", "gt_answer": null, "id": "opus_short_00618", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "感冒药吃了没效果，能多吃一颗吗", "category": "short", "gt_answer": null, "id": "opus_short_00619", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "我妈今年68了突然说胸口闷,冒冷汗,人有点发抖,是不是心脏出问题了啊?要不要马上送医院?急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00620", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "后腰疼死了 坐都坐不住 烦", "category": "short", "gt_answer": null, "id": "opus_short_00621", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 口语描述"}}
+{"prompt": "孩子三岁半 半夜突然发烧39度 一直哭闹 喂了退烧药也没用 会不会烧坏脑子啊 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00622", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "这个月来了两次月经正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00623", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "喉咙痛得咽口水都难受 是不是发炎了", "category": "short", "gt_answer": null, "id": "opus_short_00624", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 口语描述"}}
+{"prompt": "我爸七十了突然一边手脚没力气 说话也含糊 是不是中风啊??现在该怎么办 急", "category": "short", "gt_answer": null, "id": "opus_short_00625", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "大姨妈只来了两天就没了 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00626", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "眼皮一直跳 跳了三天了 烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00627", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 口语描述"}}
+{"prompt": "婆婆刚才在厨房差点晕过去 扶她坐下缓了会儿 血压量了160 要不要去医院?她不肯去", "category": "short", "gt_answer": null, "id": "opus_short_00628", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人焦虑问"}}
+{"prompt": "体检报告出来了 尿酸510 高不高啊?我才30岁诶", "category": "short", "gt_answer": null, "id": "opus_short_00629", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "血糖6.8空腹的 是不是糖尿病了 慌", "category": "short", "gt_answer": null, "id": "opus_short_00630", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "低密度脂蛋白4.2 医生说要吃药 有必要吗", "category": "short", "gt_answer": null, "id": "opus_short_00631", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "最近换季了老是打喷嚏流鼻涕嗓子还痒 是过敏还是感冒啊", "category": "short", "gt_answer": null, "id": "opus_short_00632", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "连熬三天班今天心慌手抖 是不是快猝死了……", "category": "short", "gt_answer": null, "id": "opus_short_00633", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "失眠一个礼拜了 每天两三点才睡着 白天头晕眼花 怎么办啊救命", "category": "short", "gt_answer": null, "id": "opus_short_00634", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "降压药(苯磺酸氨氯地平)一天一片血压还是150 能加到两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00635", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "二甲双胍现在吃三片 血糖控制挺好的 能减一片不", "category": "short", "gt_answer": null, "id": "opus_short_00636", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "安眠药(佐匹克隆)半片没用 能吃一整片吗急", "category": "short", "gt_answer": null, "id": "opus_short_00637", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "甲状腺TSH8.5 医生让复查 这数值严重吗要吃药么", "category": "short", "gt_answer": null, "id": "opus_short_00638", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药吃完了 还需要再开吗", "category": "short", "gt_answer": null, "id": "opus_short_00639", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我妈78了 突然说胸口闷 出了一身冷汗 现在人坐着没力气 要不要马上叫救护车啊 我一个人在家慌死了", "category": "short", "gt_answer": null, "id": "opus_short_00640", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "体检单子上尿酸480 高吗？要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00641", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "甲功那个药快吃完了 还没到复查时间 断几天行不行", "category": "short", "gt_answer": null, "id": "opus_short_00642", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "宝宝一岁半 半夜发烧38度9 喂了退烧药还是烫 手脚冰凉在抖 是不是要惊厥了啊 急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00643", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "低密度脂蛋白3.8 医生没说啥 我这个算高不", "category": "short", "gt_answer": null, "id": "opus_short_00644", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁的药明天就没了 挂不上号 能自己去药店买同样的接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00645", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我爸60多 刚才吃饭突然一边手不太听使唤 说话也有点含糊 现在缓过来了 还用去医院吗？急！", "category": "short", "gt_answer": null, "id": "opus_short_00646", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "转氨酶60多 是不是肝坏了", "category": "short", "gt_answer": null, "id": "opus_short_00647", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "阿姨家娃四岁 突然一直吐 吐了五六次了 也没吃啥坏东西 精神还行 要不要送急诊", "category": "short", "gt_answer": null, "id": "opus_short_00648", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "医生医生……我这两天右边脑袋一抽一抽的疼,吃了布洛芬也没啥用,是不是要出啥大事了啊😭", "category": "short", "gt_answer": null, "id": "opus_short_00649", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "降压药我自己加半片行不?最近一直160多下不来", "category": "short", "gt_answer": null, "id": "opus_short_00650", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "体检报告出来了,尿酸538,医生说偏高。这个数值严重吗?要吃药了吗我才32岁", "category": "short", "gt_answer": null, "id": "opus_short_00651", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "胃疼三天了……一躺下就烧心,晚上根本睡不着,烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00652", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "二甲双胍能不能减到一天一片啊,吃了老拉肚子受不了", "category": "short", "gt_answer": null, "id": "opus_short_00653", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "低密度脂蛋白4.8,报告上箭头往上指的。我平时也不咋吃肉,咋还高呢?", "category": "short", "gt_answer": null, "id": "opus_short_00654", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "腰这里一弯就疼,坐久了站起来直不起来,是不是腰椎间盘出问题了啊愁人", "category": "short", "gt_answer": null, "id": "opus_short_00655", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "安眠药(艾司唑仑)一片不管用能加到两片么", "category": "short", "gt_answer": null, "id": "opus_short_00656", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "谷丙转氨酶76,乙肝五项都正常。这个是不是肝坏了?我平时一滴酒不沾的", "category": "short", "gt_answer": null, "id": "opus_short_00657", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "喉咙里像卡了个东西一样,咽也咽不下去吐也吐不出来,难受一个礼拜了", "category": "short", "gt_answer": null, "id": "opus_short_00658", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "月经推迟十几天了,验孕棒也没两条杠,咋回事啊急死", "category": "short", "gt_answer": null, "id": "opus_short_00659", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚吃完虾就浑身痒起红疙瘩,过敏了吧?要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00660", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "降压药一天一片血压还高,能自己加到两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00661", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "这个月来了两次姨妈 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00662", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "吃了头孢半小时脸红发烫心跳快,是不是喝酒那个反应?我没喝酒啊", "category": "short", "gt_answer": null, "id": "opus_short_00663", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "二甲双胍(格华止)胃难受能减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00664", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "大姨妈量少得可怜就一点点棕色的,连着三个月了", "category": "short", "gt_answer": null, "id": "opus_short_00665", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚才吃了止痛药现在恶心想吐 是副作用吗?", "category": "short", "gt_answer": null, "id": "opus_short_00666", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "医生开的舍曲林50mg没啥效果,自己加到100行不行", "category": "short", "gt_answer": null, "id": "opus_short_00667", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "月经十几天了还没干净,一直淋淋漓漓的 烦死", "category": "short", "gt_answer": null, "id": "opus_short_00668", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "早上起来突然一阵头晕天旋地转 是不是耳石症啊 好怕", "category": "short", "gt_answer": null, "id": "opus_short_00669", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "嗓子疼得咽口水都疼 不发烧 要吃消炎药吗", "category": "short", "gt_answer": null, "id": "opus_short_00670", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "我妈70了 刚才说胸口闷了一下 现在又没事了 用去医院吗 急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00671", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "血压药(苯磺酸氨氯地平)明天吃完了 还没约上号 能先自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00672", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "胃胀 一整天 打嗝不停 饭都吃不下", "category": "short", "gt_answer": null, "id": "opus_short_00673", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "娃三岁 半夜起来说耳朵疼 一直哭 咋办啊现在药店都关门了", "category": "short", "gt_answer": null, "id": "opus_short_00674", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩不适"}}
+{"prompt": "后背起了一片红疹子 有点痒 不疼 是过敏吗？", "category": "short", "gt_answer": null, "id": "opus_short_00675", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 复查还没做 直接停一周有事吗", "category": "short", "gt_answer": null, "id": "opus_short_00676", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "头晕好几天了 蹲下站起来眼前发黑 是不是贫血啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00677", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "我爸昨晚开始拉肚子 拉了五六次 人没劲 65岁高血压 要不要去挂急诊啊", "category": "short", "gt_answer": null, "id": "opus_short_00678", "source": "opus-4-7-generated-short", "meta": {"topic": "老人不适"}}
+{"prompt": "降压药一天一片,今天血压还是高,能再加一片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00679", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我爸七十多了突然说胸口闷,冒冷汗,人还清醒,家里没速效救心丸,现在去医院来得及吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00680", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "二甲双胍吃了血糖降太多,能减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00681", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "孩子刚两岁多,半夜烧到39度2,喂了退烧药还在哭闹,手脚冰凉,要不要马上抱去急诊啊", "category": "short", "gt_answer": null, "id": "opus_short_00682", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我妈的降糖药明天就吃完了,复诊还没约上,能先去药店买着接上吗?", "category": "short", "gt_answer": null, "id": "opus_short_00683", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "抗抑郁的药医生让吃半片,我感觉没用,自己加到一片行吗", "category": "short", "gt_answer": null, "id": "opus_short_00684", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "婆婆早上起来说头晕的厉害,站不稳,一量血压180,平时也就140,我该先给她吃药还是叫救护车?", "category": "short", "gt_answer": null, "id": "opus_short_00685", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "甲状腺的药只剩两天了,还没挂上号,断几天没事吧?", "category": "short", "gt_answer": null, "id": "opus_short_00686", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "安眠药半片睡不着,加一片可以不", "category": "short", "gt_answer": null, "id": "opus_short_00687", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "抗凝药明天吃完了,复诊要下周才能去,自己按原方买着继续吃可以吗急", "category": "short", "gt_answer": null, "id": "opus_short_00688", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "我妈六十八了突然说胸口闷,坐着不动也难受,刚才还好好的,要不要立刻去医院啊我一个人在家慌死了", "category": "short", "gt_answer": null, "id": "opus_short_00689", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "孩子才三岁半发烧到38度9,吃了退烧药还是烫,人蔫蔫的不玩了,我现在该送急诊吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00690", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我爸今早起来说头晕天旋地转,躺下好点起来就晕,七十多岁的人了这是中风前兆吗?", "category": "short", "gt_answer": null, "id": "opus_short_00691", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "后腰疼一整天了,坐也不是站也不是,烦", "category": "short", "gt_answer": null, "id": "opus_short_00692", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "嗓子跟刀割一样,吞口水都疼哭了", "category": "short", "gt_answer": null, "id": "opus_short_00693", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "胃又开始翻江倒海了,难受得想吐", "category": "short", "gt_answer": null, "id": "opus_short_00694", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "右边太阳穴一跳一跳的疼,烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00695", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服 10-30 字口语描述(带情绪)"}}
+{"prompt": "换季了一直流鼻涕打喷嚏,是过敏还是感冒啊", "category": "short", "gt_answer": null, "id": "opus_short_00696", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "连续加班一周,今天心慌手抖,正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00697", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "失眠三晚了,现在头昏眼花,吃什么能缓一下", "category": "short", "gt_answer": null, "id": "opus_short_00698", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "刚吃完头孢喝了口啤酒 就一小口!!!会不会出事啊现在有点脸红心跳快", "category": "short", "gt_answer": null, "id": "opus_short_00699", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降压药我妈自己加到一天两片了 之前一片 血压还是高 这样加可以吗", "category": "short", "gt_answer": null, "id": "opus_short_00700", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "布洛芬跟感冒灵能一起吃不 头疼死了鼻子还堵", "category": "short", "gt_answer": null, "id": "opus_short_00701", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "吃了两颗芒果嘴唇开始发麻发痒 是不是过敏啊 要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00702", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "二甲双胍我能不能减半啊 天天拉肚子受不了了", "category": "short", "gt_answer": null, "id": "opus_short_00703", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "阿莫西林和益生菌一起吃行吗?间隔多久", "category": "short", "gt_answer": null, "id": "opus_short_00704", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "刚喝完中药就吃了个冰西瓜……完了 会不会白喝了", "category": "short", "gt_answer": null, "id": "opus_short_00705", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "安眠药一片没用 我能加到两片吗 已经三点了睡不着", "category": "short", "gt_answer": null, "id": "opus_short_00706", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "在吃抗抑郁的(舍曲林)现在感冒了 999感冒灵能喝吗急", "category": "short", "gt_answer": null, "id": "opus_short_00707", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "刚吃的止痛药 现在恶心想吐胃里翻江倒海 正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00708", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "哎我这后腰酸得直不起来,坐一天了,难受死了怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00709", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "降压药(氨氯地平)吃完了,还要继续开吗?没去复诊呢", "category": "short", "gt_answer": null, "id": "opus_short_00710", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "我妈七十多了,刚刚突然说心口发闷冒冷汗,人还清醒但脸白得吓人,我现在一个人在家慌得要命,是不是得马上叫救护车啊?", "category": "short", "gt_answer": null, "id": "opus_short_00711", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "嗓子疼得咽口水都要命,还有点发烧,烦", "category": "short", "gt_answer": null, "id": "opus_short_00712", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "上次开的甲状腺药明天就吃完了,能自己去药店买不", "category": "short", "gt_answer": null, "id": "opus_short_00713", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "孩子才两岁半,半夜发烧到39度2,喂了退烧药还烫,手脚冰凉一直哭闹不肯睡,我要不要现在抱去急诊?好害怕", "category": "short", "gt_answer": null, "id": "opus_short_00714", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "我这两天肚子一阵一阵绞痛,拉了好几次,人都虚脱了", "category": "short", "gt_answer": null, "id": "opus_short_00715", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "抗抑郁的药快吃没了,医生说要复诊,可我实在没空能不能先续着", "category": "short", "gt_answer": null, "id": "opus_short_00716", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "公公下午摔了一跤屁股着地,当时说没事,现在起不来了叫着腰疼,老爷子八十岁有骨质疏松,我们该扶他起来还是原地等,急死了", "category": "short", "gt_answer": null, "id": "opus_short_00717", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "头晕得天旋地转,一站起来就想吐,这啥毛病", "category": "short", "gt_answer": null, "id": "opus_short_00718", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "上次开的降压药明天就吃完了,还没时间去医院,能不能先按原来的继续吃?", "category": "short", "gt_answer": null, "id": "opus_short_00719", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我妈68了,今早突然说胸口闷,喘不上气,现在人还清醒但脸色不好,我该叫救护车还是先观察?急死了", "category": "short", "gt_answer": null, "id": "opus_short_00720", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "换季了嗓子又痒又干,晚上咳得睡不着,要紧吗", "category": "short", "gt_answer": null, "id": "opus_short_00721", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "孩子三岁半刚发烧到38.9,精神还行就是哭闹,要不要现在去急诊啊真的第一次遇到好慌", "category": "short", "gt_answer": null, "id": "opus_short_00722", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抗抑郁药快没了,复诊要下周,中间断几天行不行?", "category": "short", "gt_answer": null, "id": "opus_short_00723", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "连着加班一周,今天头晕站起来眼前发黑,是不是低血糖", "category": "short", "gt_answer": null, "id": "opus_short_00724", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "我爸糖尿病的药(二甲双胍)吃完了,医院预约要等十天,能自己去药店买同款先顶着吗", "category": "short", "gt_answer": null, "id": "opus_short_00725", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "失眠三天了每晚就睡两小时,白天心慌手抖,咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00726", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后"}}
+{"prompt": "婆婆75岁刚才吃完饭突然吐了两次,没发烧,人有点蔫,要不要马上送医院?", "category": "short", "gt_answer": null, "id": "opus_short_00727", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "甲状腺的药(优甲乐)只剩一片了复诊还没约上,停一两天会不会出事", "category": "short", "gt_answer": null, "id": "opus_short_00728", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "刚吃完头孢没多久喝了口藿香正气水…现在心跳有点快脸也烫,会不会出事啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00729", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "降压药我自己减了半片行不行?一直吃一整片感觉头晕", "category": "short", "gt_answer": null, "id": "opus_short_00730", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "体检报告出来了,同型半胱氨酸22,严重吗要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00731", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高 20-40 字简短问"}}
+{"prompt": "刚生吃了两个鸡蛋 现在肚子咕咕响还想吐 是不是中毒了啊", "category": "short", "gt_answer": null, "id": "opus_short_00732", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "二甲双胍现在一天两片血糖还是高,能不能加到三片??", "category": "short", "gt_answer": null, "id": "opus_short_00733", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "报告单尿酸489 医生没说啥 这算高吗 我才30岁", "category": "short", "gt_answer": null, "id": "opus_short_00734", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高 20-40 字简短问"}}
+{"prompt": "刚吃芒果嘴巴周围一圈红痒痒的,是过敏了吗?要不要吃药", "category": "short", "gt_answer": null, "id": "opus_short_00735", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "安眠药(艾司唑仑)半片睡不着,想加到一片,可以吗", "category": "short", "gt_answer": null, "id": "opus_short_00736", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "甘油三酯3.8,报告上一堆箭头,是不是要吃药了啊愁死", "category": "short", "gt_answer": null, "id": "opus_short_00737", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高 20-40 字简短问"}}
+{"prompt": "喝了点酒又吃了布洛芬……现在胃烧得难受,咋办", "category": "short", "gt_answer": null, "id": "opus_short_00738", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "降压药下周就没了 复诊还没约上 能先自己去药店买着吃吗急", "category": "short", "gt_answer": null, "id": "opus_short_00739", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "感冒药和布洛芬能一起吞吗?头疼得要命还流鼻涕", "category": "short", "gt_answer": null, "id": "opus_short_00740", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "这个月大姨妈还没来 上个月也推迟了十几天 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00741", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 医生让三个月复查 现在还没去 要不要接着吃", "category": "short", "gt_answer": null, "id": "opus_short_00742", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "阿莫西林能配藿香正气水喝不", "category": "short", "gt_answer": null, "id": "opus_short_00743", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "例假来了快十天了还没干净 量也不多 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00744", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "抗抑郁药快断了 医院挂不上号 停几天会怎样啊", "category": "short", "gt_answer": null, "id": "opus_short_00745", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我在吃避孕药 感冒了能吃999感冒灵吗", "category": "short", "gt_answer": null, "id": "opus_short_00746", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "才16岁一个月来两次月经 正常吗 好烦", "category": "short", "gt_answer": null, "id": "opus_short_00747", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "糖尿病的二甲双胍吃完了 复诊还得等两周 停了血糖会飙吗", "category": "short", "gt_answer": null, "id": "opus_short_00748", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药快吃完了 医生说要长期吃 我还没时间去复诊 能先自己去药店买一样的接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00749", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "体检报告出来了 尿酸498 是不是很高啊 会不会得痛风?", "category": "short", "gt_answer": null, "id": "opus_short_00750", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "我后背右边一阵一阵刺痛 好几天了 有点慌 是不是心脏出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00751", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "甲功查出来促甲状腺激素6.8 医生没细说 这个高了要紧吗", "category": "short", "gt_answer": null, "id": "opus_short_00752", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药还有三天 挂不上号 停了会不会反弹啊", "category": "short", "gt_answer": null, "id": "opus_short_00753", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "嗓子干痒老想咳 晚上更严重 烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00754", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "糖化血红蛋白7.2 医生说偏高 差多少算达标啊", "category": "short", "gt_answer": null, "id": "opus_short_00755", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子那个鼻炎的喷剂用完了 复诊还得等两周 能不能先接着买用?", "category": "short", "gt_answer": null, "id": "opus_short_00756", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "左边小肚子隐隐作痛 一按更疼 有点害怕 是不是阑尾啊", "category": "short", "gt_answer": null, "id": "opus_short_00757", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "低密度脂蛋白4.1 报告标红了 我才30岁啊 怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00758", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药吃完了,还要继续开吗?", "category": "short", "gt_answer": null, "id": "opus_short_00759", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "胸口这两天闷闷的,压着一样难受,有点慌…", "category": "short", "gt_answer": null, "id": "opus_short_00760", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "我妈七十多了,刚才突然说头晕,坐都坐不稳,现在躺床上脸色发白,要不要马上叫救护车啊?急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00761", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "抗抑郁药快吃完了 需要复诊才能开吗", "category": "short", "gt_answer": null, "id": "opus_short_00762", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "后腰酸得要命,坐一会儿就受不了,烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00763", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "我家宝宝一岁半,半夜突然发烧到39度2,喂了退烧药还在哭,手脚有点凉,是不是要送急诊啊?好怕", "category": "short", "gt_answer": null, "id": "opus_short_00764", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "甲状腺的药还剩三天,能不能先接着吃?", "category": "short", "gt_answer": null, "id": "opus_short_00765", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "喉咙又肿又疼,咽口水都要命…", "category": "short", "gt_answer": null, "id": "opus_short_00766", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "公公八十岁刚吃完饭就说胸口闷,喘不上气,冒冷汗,他自己说忍忍就好,我看着不对劲,是不是心梗啊??", "category": "short", "gt_answer": null, "id": "opus_short_00767", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "糖尿病的药到期了直接续行不行", "category": "short", "gt_answer": null, "id": "opus_short_00768", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药明天吃完了 还没预约上复诊 要不要先停一天?", "category": "short", "gt_answer": null, "id": "opus_short_00769", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "二甲双胍我自己加到一天三次行吗 血糖还是高", "category": "short", "gt_answer": null, "id": "opus_short_00770", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "体检尿酸480 医生没说啥 严重吗？", "category": "short", "gt_answer": null, "id": "opus_short_00771", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "甲状腺的药快没了 复查还得等两周 断了要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00772", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "睡不好 安眠药能不能多吃半片啊 就一晚", "category": "short", "gt_answer": null, "id": "opus_short_00773", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "报告上写低密度脂蛋白3.8 高了多少？要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00774", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药还剩三天 医院挂不上号!!先接着吃可以吗", "category": "short", "gt_answer": null, "id": "opus_short_00775", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "娃发烧 布洛芬能给他多喂点吗 说明书那个量根本压不下来", "category": "short", "gt_answer": null, "id": "opus_short_00776", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "转氨酶60 是不是肝坏了 慌得很", "category": "short", "gt_answer": null, "id": "opus_short_00777", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "他汀吃了三个月 感觉挺好 能自己减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00778", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "我妈六十八了,今天下午突然说头晕想吐,躺床上脸色特别白,血压量了150/95,平时也就130多,要不要现在就送急诊啊?好慌", "category": "short", "gt_answer": null, "id": "opus_short_00779", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "娃三岁半 半夜发烧到39度2 喂了美林还是烫 手脚冰凉在抖 是不是要抽了啊 急死了", "category": "short", "gt_answer": null, "id": "opus_short_00780", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "降压药快吃完了还用继续开吗", "category": "short", "gt_answer": null, "id": "opus_short_00781", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "体检报告尿酸498,医生没说啥,这个高得多吗?要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00782", "source": "opus-4-7-generated-short", "meta": {"topic": "体检指标偏高"}}
+{"prompt": "我爸七十二 早上起来左手突然没劲 筷子都拿不稳 说话也有点含糊 现在好一点了 还用去医院么", "category": "short", "gt_answer": null, "id": "opus_short_00783", "source": "opus-4-7-generated-short", "meta": {"topic": "老人临时不适"}}
+{"prompt": "抗抑郁的药下周吃完 没复诊 能自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00784", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "低密度脂蛋白3.8 是不是要吃他汀了", "category": "short", "gt_answer": null, "id": "opus_short_00785", "source": "opus-4-7-generated-short", "meta": {"topic": "体检指标偏高"}}
+{"prompt": "孩子刚满一岁 刚才从沙发上摔下来后脑勺着地 哭了几声现在睡着了 要不要叫醒他啊 网上说睡过去就危险 我到底该怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00786", "source": "opus-4-7-generated-short", "meta": {"topic": "小孩临时不适"}}
+{"prompt": "甲功里TSH 5.6偏高别的都正常 严重吗", "category": "short", "gt_answer": null, "id": "opus_short_00787", "source": "opus-4-7-generated-short", "meta": {"topic": "体检指标偏高"}}
+{"prompt": "甲钪片吃完了 还没预约上号 停两天行不", "category": "short", "gt_answer": null, "id": "opus_short_00788", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "体检报告出来了,尿酸520,医生说偏高,严重吗?我才30岁啊", "category": "short", "gt_answer": null, "id": "opus_short_00789", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "低密度脂蛋白4.8,是不是很高?要吃药吗急", "category": "short", "gt_answer": null, "id": "opus_short_00790", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药快吃完了,还没时间去复诊,能先自己去药店买一样的接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00791", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "糖化血红蛋白7.2,超了多少?严重不", "category": "short", "gt_answer": null, "id": "opus_short_00792", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "感冒药(泰诺)和头孢能一起吃么?刚吃完头孢半小时就发烧了难受", "category": "short", "gt_answer": null, "id": "opus_short_00793", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "甲功五项TSH 6.8,医生说高,我最近特别累是不是因为这个啊焦虑死了", "category": "short", "gt_answer": null, "id": "opus_short_00794", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药下周就吃完了,预约不上号,能不能自己续一个月", "category": "short", "gt_answer": null, "id": "opus_short_00795", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "布洛芬和阿莫西林可以同时吃吗急用在线等", "category": "short", "gt_answer": null, "id": "opus_short_00796", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "孩子的哮喘喷雾用完了,复诊还有一周,现在断了行不行?", "category": "short", "gt_answer": null, "id": "opus_short_00797", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "降压药(缬沙坦)跟感冒冲剂一起喝有事吗?老公非要吃我不放心", "category": "short", "gt_answer": null, "id": "opus_short_00798", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "这月大姨妈都推迟十几天了 早上擦有点褐色的 又没真来 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00799", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "来了快十天还没干净 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00800", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "医生开的二甲双胍我一天三次 老忘 能改成一天两次吗?", "category": "short", "gt_answer": null, "id": "opus_short_00801", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "降压药吃了半个月血压还是高 我能自己加半片吗急死了", "category": "short", "gt_answer": null, "id": "opus_short_00802", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "我妈七十了刚才突然说胸口闷 现在冒冷汗 要不要直接打120啊?!", "category": "short", "gt_answer": null, "id": "opus_short_00803", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "孩子两岁 半夜烧到39度5 布洛芬刚喂完还没退 咋办急", "category": "short", "gt_answer": null, "id": "opus_short_00804", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "月经量少的可怜 三天就完了 是不是快绝经了我才三十五", "category": "short", "gt_answer": null, "id": "opus_short_00805", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "娃拉肚子一下午了七八次 蔫蔫的不喝水 要去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00806", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "优甲乐现在吃一片半 复查tsh还是高 医生没说加量 我能自己加到两片吗", "category": "short", "gt_answer": null, "id": "opus_short_00807", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "来月经血块特别多 还一坨一坨掉 头都晕", "category": "short", "gt_answer": null, "id": "opus_short_00808", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "我妈70了突然头晕站不稳,刚吃完饭没多久,血压量了145,要不要马上去医院啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00809", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "孩子三岁半半夜发烧38.9,喂了美林还没退,现在一直哭闹要不要送急诊", "category": "short", "gt_answer": null, "id": "opus_short_00810", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "降压药(氨氯地平)一天一片感觉没啥效果,能自己加到两片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00811", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "二甲双胍能和阿莫西林一起吃不 急", "category": "short", "gt_answer": null, "id": "opus_short_00812", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "我爸65,今天早上起来手麻半边脸也有点麻,说话还行,这啥情况啊要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00813", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "感冒药和布洛芬一起吃会不会出事,头疼死了鼻子还堵", "category": "short", "gt_answer": null, "id": "opus_short_00814", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "孩子拉肚子拉了五六次了,蒙脱石散吃了一包没用,能再加一包吗", "category": "short", "gt_answer": null, "id": "opus_short_00815", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "我奶奶88岁刚才吃饭呛到了一直咳嗽,现在脸有点红,要不要拍背啊?", "category": "short", "gt_answer": null, "id": "opus_short_00816", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "安眠药吃了半片没睡着,能再加半片么", "category": "short", "gt_answer": null, "id": "opus_short_00817", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量调整"}}
+{"prompt": "钙片和优甲乐可以一起吃吗 早上一起吞了才想起来问", "category": "short", "gt_answer": null, "id": "opus_short_00818", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "大姨妈都推迟半个多月了 会不会有啥事啊我好慌", "category": "short", "gt_answer": null, "id": "opus_short_00819", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "嗓子疼得咽口水都费劲,咋整", "category": "short", "gt_answer": null, "id": "opus_short_00820", "source": "opus-4-7-generated-short", "meta": {"topic": "嗓子疼"}}
+{"prompt": "我这两天一站起来就头晕眼黑,是不是低血糖啊", "category": "short", "gt_answer": null, "id": "opus_short_00821", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "月经来了十几天还没干净 正常吗?", "category": "short", "gt_answer": null, "id": "opus_short_00822", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "胳膊上突然起了好多小红疙瘩,还痒死了 崩溃", "category": "short", "gt_answer": null, "id": "opus_short_00823", "source": "opus-4-7-generated-short", "meta": {"topic": "皮疹"}}
+{"prompt": "胃胀气一整天了 打嗝也打不出来 难受的要命", "category": "short", "gt_answer": null, "id": "opus_short_00824", "source": "opus-4-7-generated-short", "meta": {"topic": "胃胀"}}
+{"prompt": "我后腰这边一直隐隐作痛 好几天了 有点怕", "category": "short", "gt_answer": null, "id": "opus_short_00825", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "例假量特别少就一点点 才两天就没了正常么", "category": "short", "gt_answer": null, "id": "opus_short_00826", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "心口窝这块一阵一阵闷得慌 是不是心脏出问题了啊烦死", "category": "short", "gt_answer": null, "id": "opus_short_00827", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "头晕好几天了睡也睡不好 到底咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00828", "source": "opus-4-7-generated-short", "meta": {"topic": "头晕"}}
+{"prompt": "上次开的降压药(氨氯地平)吃完了,还要继续吃吗?", "category": "short", "gt_answer": null, "id": "opus_short_00829", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "胃老是隐隐作痛,尤其晚上,好烦啊,是不是胃出问题了", "category": "short", "gt_answer": null, "id": "opus_short_00830", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "体检报告写着甘油三酯3.8,这个高不高啊?严重吗", "category": "short", "gt_answer": null, "id": "opus_short_00831", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "甲亢的药快吃完了 需要继续开吗", "category": "short", "gt_answer": null, "id": "opus_short_00832", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "最近脖子后面老是酸,转头都难受,是不是颈椎又犯了…头都晕", "category": "short", "gt_answer": null, "id": "opus_short_00833", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "尿酸520,医生让我复查,这个数值算很高吗要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00834", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "抗抑郁药还剩三天了,能自己停吗", "category": "short", "gt_answer": null, "id": "opus_short_00835", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "右边小腹一阵一阵抽疼,吓死我了,是不是阑尾炎啊??", "category": "short", "gt_answer": null, "id": "opus_short_00836", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "报告上糖化血红蛋白6.8,医生没细说,这算糖尿病了吗急", "category": "short", "gt_answer": null, "id": "opus_short_00837", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "心慌好几天了 胸口闷闷的 是不是心脏有毛病啊有点怕", "category": "short", "gt_answer": null, "id": "opus_short_00838", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "我妈70了突然头晕站不稳,冒冷汗,坐着好一点,要不要马上去医院啊?急死了", "category": "short", "gt_answer": null, "id": "opus_short_00839", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "娃三岁半半夜突然烧到39.2,精神还行就是一直哼唧,能先喂退烧药等天亮吗", "category": "short", "gt_answer": null, "id": "opus_short_00840", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "布洛芬和感冒灵能一起吃吗?头疼死了鼻子还堵", "category": "short", "gt_answer": null, "id": "opus_short_00841", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "降压药我妈今天忘吃了 晚上补一粒还是明早直接吃一粒 会不会低血压", "category": "short", "gt_answer": null, "id": "opus_short_00842", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量加减"}}
+{"prompt": "孩子拉肚子一天六七次了 蔫蔫的不爱喝水 嘴唇有点干 这样算脱水吗急", "category": "short", "gt_answer": null, "id": "opus_short_00843", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "阿莫西林吃了三天没效果 能自己加到一次两粒不", "category": "short", "gt_answer": null, "id": "opus_short_00844", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量加减"}}
+{"prompt": "我爸吃华法林 又给他开了头孢 这俩一起吃没事吧?", "category": "short", "gt_answer": null, "id": "opus_short_00845", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "奶奶85了突然说话有点含糊 一会又好了 是不是小中风啊?要不要立刻叫120", "category": "short", "gt_answer": null, "id": "opus_short_00846", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "安眠药半片睡不着 能加到一片吗", "category": "short", "gt_answer": null, "id": "opus_short_00847", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量加减"}}
+{"prompt": "蒙脱石散跟益生菌能一起给娃冲吗 还是要隔开?", "category": "short", "gt_answer": null, "id": "opus_short_00848", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "降压药我自己加了半片行不行?最近量还是高", "category": "short", "gt_answer": null, "id": "opus_short_00849", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "嗓子疼两天了 咽口水都疼 没发烧 要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00850", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "感冒药和头孢能一起吃么?刚吃完感冒灵半小时又想起来该吃消炎药了 急", "category": "short", "gt_answer": null, "id": "opus_short_00851", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "二甲双胍能减一半量吗 胃太难受了受不了", "category": "short", "gt_answer": null, "id": "opus_short_00852", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "早上起来一直头晕 站起来眼前发黑那种 是不是低血糖啊", "category": "short", "gt_answer": null, "id": "opus_short_00853", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "布洛芬跟阿莫西林可以同时吃不 牙疼死了", "category": "short", "gt_answer": null, "id": "opus_short_00854", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "胃胀气 打嗝一整天了 饭都没怎么吃 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00855", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "孩子发烧 退烧药说明是5ml 我给他喂了3ml行吗 怕多", "category": "short", "gt_answer": null, "id": "opus_short_00856", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "胳膊上起了一片小红疹 有点痒不疼 会不会是过敏啊 需要看医生吗", "category": "short", "gt_answer": null, "id": "opus_short_00857", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "降糖药和维生素B能一起吃吗 早上一把药 分不清", "category": "short", "gt_answer": null, "id": "opus_short_00858", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我妈70了突然说胸口闷,坐着不动也难受,人有点冒汗,是不是要赶紧去医院啊?我一个人在家好慌", "category": "short", "gt_answer": null, "id": "opus_short_00859", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "孩子三岁半刚睡着摸着烫手,量了38度5,没别的症状,要不要现在喂退烧药?愁死我了", "category": "short", "gt_answer": null, "id": "opus_short_00860", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我爸吃降压药快吃完了 还没复查 能先按原来的接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00861", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "婆婆刚才蹲下再站起来眼前一黑差点摔了,现在坐着还说头晕想吐,要紧不?", "category": "short", "gt_answer": null, "id": "opus_short_00862", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "药明天就没了 复诊约不上 停了行不行", "category": "short", "gt_answer": null, "id": "opus_short_00863", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "换季了嗓子干痒老想咳 睡不好 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00864", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "连着加班一周了 昨晚就睡了三小时 今天心跳有点快正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00865", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 还没抽血 是继续吃还是先停几天等结果?", "category": "short", "gt_answer": null, "id": "opus_short_00866", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "娃五岁 刚吃完饭吐了两次 精神还行 要不要挂急诊啊 我第一次遇到这种真的慌", "category": "short", "gt_answer": null, "id": "opus_short_00867", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "最近老失眠 白天头昏眼皮跳 是不是身体出啥问题了", "category": "short", "gt_answer": null, "id": "opus_short_00868", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "最近换季头晕得厉害 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00869", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "这个月大姨妈提前十几天来了 量还特别少 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00870", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "降压药明天就吃完了 医生让复诊我没空去 能自己去药店买一样的接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00871", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "连着熬夜一周 现在心慌手抖 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00872", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "月经两个月没来了 也没怀孕 慌死", "category": "short", "gt_answer": null, "id": "opus_short_00873", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "甲状腺的药吃完了 复查还没约上 能停几天不", "category": "short", "gt_answer": null, "id": "opus_short_00874", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "失眠一礼拜了 白天困晚上精神 崩溃", "category": "short", "gt_answer": null, "id": "opus_short_00875", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "例假来了都十几天还没干净 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00876", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "抗抑郁的药快没了 医院挂不上号 停了会咋样啊", "category": "short", "gt_answer": null, "id": "opus_short_00877", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续 短问"}}
+{"prompt": "换季了嗓子干鼻子堵 是不是又感冒了 烦", "category": "short", "gt_answer": null, "id": "opus_short_00878", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "这个月大姨妈才来第10天怎么又来了？烦死", "category": "short", "gt_answer": null, "id": "opus_short_00879", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "月经推迟快两周了 测了没怀孕 咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00880", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "例假量特别少 就一点点 三天就没了 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00881", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "降温后一直流清鼻涕打喷嚏 嗓子还痒 这是感冒了？", "category": "short", "gt_answer": null, "id": "opus_short_00882", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "连着熬夜三天了 今天头晕心慌手抖 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00883", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "最近老失眠 凌晨三四点才睡着 白天困得要死 有啥办法", "category": "short", "gt_answer": null, "id": "opus_short_00884", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "换季了脸上又开始起红疹脱皮 特别痒 是过敏吗", "category": "short", "gt_answer": null, "id": "opus_short_00885", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "我爸七十多了 突然说胸口闷 喘不上气 冒冷汗 要不要叫救护车啊急死了", "category": "short", "gt_answer": null, "id": "opus_short_00886", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "孩子刚两岁 半夜发烧到39度2 喂了退烧药还是烫 现在人蔫蔫的 该怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00887", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "我妈血压突然180多 头晕想吐 平时都吃着药的 现在要不要加一片 好慌", "category": "short", "gt_answer": null, "id": "opus_short_00888", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "降压药吃完了还要继续开吗?上次医生说吃三个月现在到期了", "category": "short", "gt_answer": null, "id": "opus_short_00889", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "我这两天右边小肚子一抽一抽的疼,是不是阑尾啊,好慌", "category": "short", "gt_answer": null, "id": "opus_short_00890", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "二甲双胍能自己加一片吗血糖降不下来", "category": "short", "gt_answer": null, "id": "opus_short_00891", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "抗抑郁药吃完了 没时间复诊 能先自己去药店买吗", "category": "short", "gt_answer": null, "id": "opus_short_00892", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "后脑勺一跳一跳的疼 眼睛都睁不开 烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00893", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "艾司唑仑一片睡不着 能吃两片么", "category": "short", "gt_answer": null, "id": "opus_short_00894", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "甲状腺的药到今天没了 还没约上号 断几天要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00895", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期该不该继续"}}
+{"prompt": "胸口这里闷闷的 有点喘不上气 是不是心脏出问题了啊", "category": "short", "gt_answer": null, "id": "opus_short_00896", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "血压稳定了 降压药能减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00897", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "喉咙右边吞口水就疼 好几天了 咋回事 烦", "category": "short", "gt_answer": null, "id": "opus_short_00898", "source": "opus-4-7-generated-short", "meta": {"topic": "身体某处不舒服"}}
+{"prompt": "体检报告出来了,尿酸530,医生说偏高,严重吗?我才30岁啊", "category": "short", "gt_answer": null, "id": "opus_short_00899", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药一直吃半片,最近血压还是150多,能加到一整片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00900", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "刚吃了两个芒果现在嘴巴麻麻的舌头也痒 是过敏了吗急", "category": "short", "gt_answer": null, "id": "opus_short_00901", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "低密度脂蛋白4.2 高吗 需要吃药不", "category": "short", "gt_answer": null, "id": "opus_short_00902", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "二甲双胍一天三次太麻烦了 能不能改成两次啊", "category": "short", "gt_answer": null, "id": "opus_short_00903", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "糖化血红蛋白7.8医生只让我控制饮食 这个数值真的不用吃药吗?我妈糖尿病我很担心", "category": "short", "gt_answer": null, "id": "opus_short_00904", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子刚喝完头孢现在脸有点红 没起疹子 要紧不 用去医院吗", "category": "short", "gt_answer": null, "id": "opus_short_00905", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲功报告TSH6.5 医生说亚临床甲减 这什么鬼 严重吗", "category": "short", "gt_answer": null, "id": "opus_short_00906", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "安眠药半片根本睡不着 我自己加到一片行吗?", "category": "short", "gt_answer": null, "id": "opus_short_00907", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "刚吃完布洛芬十分钟胃疼的厉害 是药的问题吗?要不要喝点牛奶", "category": "short", "gt_answer": null, "id": "opus_short_00908", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "降压药一天一片血压还是高,能自己加到两片吗?急", "category": "short", "gt_answer": null, "id": "opus_short_00909", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "二甲双胍我吃着有点拉肚子 能减半吗", "category": "short", "gt_answer": null, "id": "opus_short_00910", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "医生开的安眠药半片根本睡不着,我能吃一整片不", "category": "short", "gt_answer": null, "id": "opus_short_00911", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "刚吃完头孢喝了口啤酒…就一口 会不会出事啊?？", "category": "short", "gt_answer": null, "id": "opus_short_00912", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "我吃了芒果嘴巴麻麻的还起红点 是过敏吗", "category": "short", "gt_answer": null, "id": "opus_short_00913", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "感冒药刚吃完又想吃布洛芬止头痛 能一起吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00914", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应 短问"}}
+{"prompt": "一入秋就狂打喷嚏流鼻涕 眼睛还痒 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00915", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "连着熬了三天夜 今天心慌手抖 是不是要猝死了", "category": "short", "gt_answer": null, "id": "opus_short_00916", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "失眠一个礼拜了 头晕想吐 吃点啥能睡着", "category": "short", "gt_answer": null, "id": "opus_short_00917", "source": "opus-4-7-generated-short", "meta": {"topic": "换季/劳累/失眠后 短问"}}
+{"prompt": "华法林医生让吃1.25 我自己减到1可以吗最近有点出血", "category": "short", "gt_answer": null, "id": "opus_short_00918", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减 短问"}}
+{"prompt": "我这右边肋骨下面一抽一抽的疼,吓死我了,不会是肝出问题了吧?", "category": "short", "gt_answer": null, "id": "opus_short_00919", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "降压药明天就吃完了 医生说要复诊 但我最近抽不开身 能先自己去药店买一盒续上吗", "category": "short", "gt_answer": null, "id": "opus_short_00920", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "一到换季就鼻子不通气 眼睛痒 烦死了 有啥办法没", "category": "short", "gt_answer": null, "id": "opus_short_00921", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "后脑勺这两天嗡嗡的胀,睡也睡不好,是不是血压又高了啊愁死", "category": "short", "gt_answer": null, "id": "opus_short_00922", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了 还没约上号 停两天没事吧?", "category": "short", "gt_answer": null, "id": "opus_short_00923", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "连着加了一周班 现在浑身骨头都散架了 头还晕 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00924", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "胃里烧得慌 还老打嗝 有股酸水往上涌 难受一晚上了", "category": "short", "gt_answer": null, "id": "opus_short_00925", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "抗抑郁的药还剩三片,复诊要下周,能不能撑到那天啊,我怕断了难受", "category": "short", "gt_answer": null, "id": "opus_short_00926", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "最近老失眠 躺床上翻来覆去两三点才睡着 白天困得要命 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00927", "source": "opus-4-7-generated-short", "meta": {"topic": "换季劳累失眠"}}
+{"prompt": "我小腿肚子这两天一按就疼 走路也别扭 不会是血栓吧 越想越害怕", "category": "short", "gt_answer": null, "id": "opus_short_00928", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "我妈突然头晕站不稳,脸色发白,坐着缓了一会好点了,但我还是慌,要不要马上去医院啊?她72了有高血压", "category": "short", "gt_answer": null, "id": "opus_short_00929", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "宝宝一岁半半夜发烧38度9,喂了退烧药还在哭,手脚有点凉正常吗?急死了", "category": "short", "gt_answer": null, "id": "opus_short_00930", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "这个月月经推迟十天了,没怀孕,咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00931", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢又牙疼", "category": "short", "gt_answer": null, "id": "opus_short_00932", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "我爸六十多突然说胸口闷,冒冷汗,现在躺床上不肯去医院,我该怎么办啊在线等", "category": "short", "gt_answer": null, "id": "opus_short_00933", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "来月经量特别大 一小时换一片 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00934", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "孩子三岁刚摔了后脑勺,当时哭得凶现在没事跑来跑去,要紧不?", "category": "short", "gt_answer": null, "id": "opus_short_00935", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适"}}
+{"prompt": "降压药和感冒药可以一起吃么 老人感冒了怕冲突", "category": "short", "gt_answer": null, "id": "opus_short_00936", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "月经完了两天又出血,咖啡色的,咋回事啊", "category": "short", "gt_answer": null, "id": "opus_short_00937", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "维生素c和阿莫西林隔多久吃?刚吞完c忘了还有消炎药", "category": "short", "gt_answer": null, "id": "opus_short_00938", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完头孢又头疼得要命", "category": "short", "gt_answer": null, "id": "opus_short_00939", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "感冒药和降压药隔多久吃啊 急", "category": "short", "gt_answer": null, "id": "opus_short_00940", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "这月姨妈推迟十几天了 没怀孕 咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00941", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "月经来了半个月还没干净…正常吗 有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00942", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "体检报告尿酸498 严重吗?才30岁啊", "category": "short", "gt_answer": null, "id": "opus_short_00943", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告指标偏高"}}
+{"prompt": "甲功检查tsh偏高一点点 医生说没事 真的没事?", "category": "short", "gt_answer": null, "id": "opus_short_00944", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告指标偏高"}}
+{"prompt": "阿莫西林能配着蒙脱石散吃么 娃拉肚子", "category": "short", "gt_answer": null, "id": "opus_short_00945", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "大姨妈量特别少 就两天没了 是不是要绝经了啊我才38", "category": "short", "gt_answer": null, "id": "opus_short_00946", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "低密度脂蛋白4.1 高吗 需要吃药么", "category": "short", "gt_answer": null, "id": "opus_short_00947", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告指标偏高"}}
+{"prompt": "维生素c和阿司匹林同时吃行不 网上说不能一起", "category": "short", "gt_answer": null, "id": "opus_short_00948", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃"}}
+{"prompt": "完了完了我后脑勺一阵一阵抽着疼,是不是脑子出问题了啊", "category": "short", "gt_answer": null, "id": "opus_short_00949", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "嗓子疼两天了,咽口水都费劲,用不用吃消炎药", "category": "short", "gt_answer": null, "id": "opus_short_00950", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "我这胃老胀气,一吃完就跟怀了似的,咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00951", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "降压药(络活喜)明天就吃完了,还没预约上号,能先自己去药店买接着吃吗", "category": "short", "gt_answer": null, "id": "opus_short_00952", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "蹲下起来眼前一黑,头晕得不行,是低血糖还是贫血啊", "category": "short", "gt_answer": null, "id": "opus_short_00953", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "胳膊上突然起了一片小红疙瘩,痒死我了,挠得都破皮了怎么办", "category": "short", "gt_answer": null, "id": "opus_short_00954", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "腰这两天疼得直不起来,坐也不是站也不是,我才25岁啊", "category": "short", "gt_answer": null, "id": "opus_short_00955", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "甲状腺的药(优甲乐)吃完了,复查还没做,能继续吃吗?", "category": "short", "gt_answer": null, "id": "opus_short_00956", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "心口窝这块闷闷的,喘不上气,吓死我了不会是心脏吧", "category": "short", "gt_answer": null, "id": "opus_short_00957", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适口语描述"}}
+{"prompt": "抗抑郁药快没了医生请假了,断几天要紧不", "category": "short", "gt_answer": null, "id": "opus_short_00958", "source": "opus-4-7-generated-short", "meta": {"topic": "复诊药到期"}}
+{"prompt": "大姨妈都推迟十几天了 早孕试纸也没两条杠 咋回事啊烦死了", "category": "short", "gt_answer": null, "id": "opus_short_00959", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "刚吃完头孢喝了一小口啤酒 就抿了一下 会不会出事啊???急", "category": "short", "gt_answer": null, "id": "opus_short_00960", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "嗓子疼得咽口水都费劲 是不是要发烧了", "category": "short", "gt_answer": null, "id": "opus_short_00961", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "月经量突然变超少 就一点点粉色 两天就没了 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00962", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "刚吃了两个芒果嘴角开始痒 是不是过敏了 需要吃药吗", "category": "short", "gt_answer": null, "id": "opus_short_00963", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "蹲下站起来眼前一黑 老这样 是贫血?", "category": "short", "gt_answer": null, "id": "opus_short_00964", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "肚子胀气一整天了 屁还特别多 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00965", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "这个月来了两次月经 中间才隔十来天 吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00966", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常"}}
+{"prompt": "吃了颗布洛芬(芬必得)现在胃里翻江倒海想吐 正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00967", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "胳膊上突然冒了一片小红疙瘩 痒得不行 抓破了 咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00968", "source": "opus-4-7-generated-short", "meta": {"topic": "常见小症状"}}
+{"prompt": "换季了嗓子又痒又干,一到晚上就咳,烦死了,咋办啊", "category": "short", "gt_answer": null, "id": "opus_short_00969", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "布洛芬和头孢能一起吃吗？急", "category": "short", "gt_answer": null, "id": "opus_short_00970", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "后背这两天一抽一抽的疼,吓死我了", "category": "short", "gt_answer": null, "id": "opus_short_00971", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "连着熬三天了,现在头晕眼花心慌,是不是要猝死了啊", "category": "short", "gt_answer": null, "id": "opus_short_00972", "source": "opus-4-7-generated-short", "meta": {"topic": "劳累后症状"}}
+{"prompt": "我妈高血压药(氨氯地平)能跟感冒灵一起吃不", "category": "short", "gt_answer": null, "id": "opus_short_00973", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "失眠一个礼拜了 眼睛干得睁不开 咋整", "category": "short", "gt_answer": null, "id": "opus_short_00974", "source": "opus-4-7-generated-short", "meta": {"topic": "失眠后不适"}}
+{"prompt": "左边小肚子隐隐作痛,女的,有点慌", "category": "short", "gt_answer": null, "id": "opus_short_00975", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "降压药和维生素c一块吃有事吗？", "category": "short", "gt_answer": null, "id": "opus_short_00976", "source": "opus-4-7-generated-short", "meta": {"topic": "药物同服"}}
+{"prompt": "最近一变天膝盖就疼得走不了路,好烦", "category": "short", "gt_answer": null, "id": "opus_short_00977", "source": "opus-4-7-generated-short", "meta": {"topic": "换季不适"}}
+{"prompt": "耳朵里嗡嗡响两天了,是不是聋了啊救命", "category": "short", "gt_answer": null, "id": "opus_short_00978", "source": "opus-4-7-generated-short", "meta": {"topic": "身体不适"}}
+{"prompt": "体检查出来同型半胱氨酸18,医生说偏高,这个严重吗?会不会中风啊我才35岁", "category": "short", "gt_answer": null, "id": "opus_short_00979", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "刚吃了两只虾浑身开始痒,起红疙瘩,是不是过敏了?要不要去医院啊", "category": "short", "gt_answer": null, "id": "opus_short_00980", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "二甲双胍现在一天两片血糖还是11多,能加到三片吗?", "category": "short", "gt_answer": null, "id": "opus_short_00981", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "糖化血红蛋白6.3算高不?医生也没说清楚,我平时又不爱吃糖…急", "category": "short", "gt_answer": null, "id": "opus_short_00982", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "降压药(氨氯地平)吃了半年了血压一直很稳,能不能减半片?一直吃怕伤肾", "category": "short", "gt_answer": null, "id": "opus_short_00983", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "刚喝完头孢半小时喝了一口啤酒 会死人吗???", "category": "short", "gt_answer": null, "id": "opus_short_00984", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "尿酸510男的,痛风没犯过要不要吃药啊", "category": "short", "gt_answer": null, "id": "opus_short_00985", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "孩子吃了退烧药(布洛芬)20分钟就吐了 要不要再喂一次", "category": "short", "gt_answer": null, "id": "opus_short_00986", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}
+{"prompt": "甲状腺球蛋白抗体300多正常应该<40,是不是桥本?会变癌吗", "category": "short", "gt_answer": null, "id": "opus_short_00987", "source": "opus-4-7-generated-short", "meta": {"topic": "查体报告某个指标偏高"}}
+{"prompt": "舍曲林50一直没啥效果,自己加到75行不行?不想再跑一趟医院了", "category": "short", "gt_answer": null, "id": "opus_short_00988", "source": "opus-4-7-generated-short", "meta": {"topic": "药物剂量能不能加/减"}}
+{"prompt": "这个月大姨妈来了十几天了还没走正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00989", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "我妈70了刚才突然说头晕眼前发黑现在躺床上脸色特别白要不要叫救护车啊急死我了", "category": "short", "gt_answer": null, "id": "opus_short_00990", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "布洛芬和头孢能一起吃吗?刚吃完布洛芬又要吃头孢", "category": "short", "gt_answer": null, "id": "opus_short_00991", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "姨妈推迟半个月了 没怀孕 咋回事", "category": "short", "gt_answer": null, "id": "opus_short_00992", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "孩子两岁半半夜发烧烧到39度2了 喂了美林还没退 手脚冰凉在抖 这种要不要现在就去医院啊", "category": "short", "gt_answer": null, "id": "opus_short_00993", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "感冒药(白加黑)和阿莫西林一起吃行吗急", "category": "short", "gt_answer": null, "id": "opus_short_00994", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "经血黑褐色量还特别少 就三天没了 咋办", "category": "short", "gt_answer": null, "id": "opus_short_00995", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "爸爸60多今天下午开始一直说胸口闷 喘不上气 出汗特别多 他不肯去医院 我该怎么办啊", "category": "short", "gt_answer": null, "id": "opus_short_00996", "source": "opus-4-7-generated-short", "meta": {"topic": "老人小孩临时不适 家人 40-70 字焦虑问"}}
+{"prompt": "降压药早上吃了 现在能再吃感冒灵颗粒吗?", "category": "short", "gt_answer": null, "id": "opus_short_00997", "source": "opus-4-7-generated-short", "meta": {"topic": "药能不能一起吃 30-50 字快速咨询"}}
+{"prompt": "月经量突然变超多 一小时换一片卫生巾正常吗", "category": "short", "gt_answer": null, "id": "opus_short_00998", "source": "opus-4-7-generated-short", "meta": {"topic": "月经异常 短问"}}
+{"prompt": "刚吃完头孢喝了口酒会不会死啊 心跳好快 手都在抖", "category": "short", "gt_answer": null, "id": "opus_short_00999", "source": "opus-4-7-generated-short", "meta": {"topic": "刚吃过某种食物/药物有反应"}}

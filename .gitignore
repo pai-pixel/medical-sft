@@ -18,6 +18,9 @@ datasets_local/
 # v4 数据样本例外 (evasive samples / official entries 等小 jsonl)
 !v4/**/*.jsonl
 
+# v6 pipeline 中间产物例外 (seed prompts + merged + raw answers, 已 rm 远程只留 GitHub 副本)
+!v6/**/*.jsonl
+
 # v4 raw 目录 (爬虫原页 / pdf 页级切片, 无复用价值, 不推)
 v4/data_prep/D1_formula_snippets/
 v4/data_prep/D1_formula_snippets_300/
