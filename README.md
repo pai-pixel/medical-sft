@@ -30,7 +30,9 @@
 |---|---|---|
 | `v2/` (full SFT 168万) | [`shdkahjkda/medical-sft-v2`](https://huggingface.co/datasets/shdkahjkda/medical-sft-v2) | 2.6 GB / 1.68M 条 |
 | `v3/` (GRPO 1067 条 CMMLU) | [`shdkahjkda/medical-mcq-v3-grpo`](https://huggingface.co/datasets/shdkahjkda/medical-mcq-v3-grpo) | 600 KB / 1067 条 |
-| **`v3/dpo/`** (DPO 双老师蒸馏 43,488 配对) | [`shdkahjkda/medical-dpo-43k`](https://huggingface.co/datasets/shdkahjkda/medical-dpo-43k) | 1.17 GB / 43,488 对 |
+| `v3/dpo/` (DPO 双老师蒸馏 43,488 配对) | [`shdkahjkda/medical-dpo-43k`](https://huggingface.co/datasets/shdkahjkda/medical-dpo-43k) | 1.17 GB / 43,488 对 |
+| `v4/` (Qwen3-8B full SFT 混合 37k) | [`shdkahjkda/medical-sft-v4-data`](https://huggingface.co/datasets/shdkahjkda/medical-sft-v4-data) | 300 MB / 37k 条 |
+| **`v6/`** (v4 基础 + Opus 4.7 蒸馏补 4 短板 56k) | [`shdkahjkda/medical-sft-v6-data`](https://huggingface.co/datasets/shdkahjkda/medical-sft-v6-data) | 400 MB / 56,633 条 |
 
 数据闭环:本仓库**只含代码 + 1000 对 audit 抽样**(`v3/dpo/audit/audit_1000.jsonl`),完整数据需从 HF 拉取:
 
